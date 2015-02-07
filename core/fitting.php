@@ -236,6 +236,8 @@ class Fitting
 	
 	private static function getItemHTML($itemName, $slot, $position, $isCharge = false)
 	{
+		global $phpbb_root_path;
+		
 		// Search for item in database
 		$itemInfo = self::getItemInfo($itemName);
 		
@@ -247,7 +249,7 @@ class Fitting
 		{
 			return array(
 				'itemID'	=> false,
-				'html'		=> '<div id="' . $slot . $charge . ($position + 1) . '"><img border="0" title="Unrecognized item" src="cyerus/evebbcode/images/questionmark.png"></div>'
+				'html'		=> '<div id="' . $slot . $charge . ($position + 1) . '"><img border="0" title="Unrecognized item" src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/questionmark.png"></div>'
 			);
 		}
 		else
@@ -262,9 +264,11 @@ class Fitting
 	
 	private static function getEmptySlotHTML($slot, $position)
 	{
+		global $phpbb_root_path;
+		
 		return array(
 			'itemID'	=> false,
-			'html'		=> '<div id="' . $slot . ($position + 1) . '"><img border="0" title="Empty ' . ucfirst($slot) . ' Slot" src="cyerus/evebbcode/images/' . $slot . '_32.png"></div>'
+			'html'		=> '<div id="' . $slot . ($position + 1) . '"><img border="0" title="Empty ' . ucfirst($slot) . ' Slot" src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/' . $slot . '_32.png"></div>'
 		);
 	}
 	
@@ -392,7 +396,9 @@ class Fitting
 	
 	private static function returnHTML($shipInfo, $fittingText, $fittingOutput, $shipDNA)
 	{
-        // Start fitting
+        global $phpbb_root_path;
+		
+		// Start fitting
         return	'<div id="fittitle"><h4>' . htmlentities($shipInfo['typeName']) . ' - ' . htmlentities($shipInfo['fittingName']) . '</h4></div>' .
 				'<div id="fitting_container">' .
 					'<div class="fitting_tabs">' .
@@ -409,13 +415,11 @@ class Fitting
 					'</div>' .
 		
 					'<div title="fitting" id="fitting">' .
-						'<div id="fittingwindow"><img border="0" alt="" src="cyerus/evebbcode/images/fitting_panel.png"></div>' . 
-						'<div id="shiprace"><img border="0" alt="" title="' . $shipInfo['Icon'] . '" src="cyerus/evebbcode/images/races/' . $shipInfo['Icon'] . '.png"></div>' . 
+						'<div id="fittingwindow"><img border="0" alt="" src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/fitting_panel.png"></div>' . 
+						'<div id="shiprace"><img border="0" alt="" title="' . $shipInfo['Icon'] . '" src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/races/' . $shipInfo['Icon'] . '.png"></div>' . 
 						'<div id="shipicon"><img border="0" alt="" title="' . $shipInfo['Tech'] . ' - ' . $shipInfo['groupName'] . ' - ' . htmlentities($shipInfo['typeName']) . '" src="http://image.eveonline.com/Render/' . $shipInfo['typeID'] . '_64.png" onclick="CCPEVE.showInfo(' . $shipInfo['typeID'] . ')" onmouseover="this.style.cursor=\'pointer\'"></div>' .
 						$fittingOutput .
 					'</div>' . 
 				'</div>';
 	}
 }
-
-?>

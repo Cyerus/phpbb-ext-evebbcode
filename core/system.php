@@ -61,13 +61,13 @@ class System
 		if(!self::isWormhole($systemID))
 		{
 			$html =	'<a class="postlink">' . $systemName . '</a>&nbsp;&nbsp;' .
-					'<img src="'.$phpbb_root_path.'/cyerus/evebbcode/images/information.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showInfo(5, '.$systemID.')" title="Information" />&nbsp;' .
-					'<img src="'.$phpbb_root_path.'/cyerus/evebbcode/images/map.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showMap('.$systemID.')" title="Show on map" />&nbsp;';
+					'<img src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/information.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showInfo(5, '.$systemID.')" title="Information" />&nbsp;' .
+					'<img src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/map.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showMap('.$systemID.')" title="Show on map" />&nbsp;';
 			
 			if($_SERVER['HTTP_EVE_TRUSTED'] == "Yes")
 			{
-				$html .=	'<img src="'.$phpbb_root_path.'/cyerus/evebbcode/images/destination.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.setDestination('.$systemID.')" title="Set as destination" />&nbsp;' . 
-							'<img src="'.$phpbb_root_path.'/cyerus/evebbcode/images/waypoint.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.addWaypoint('.$systemID.')" title="Add waypoint" />&nbsp;';
+				$html .=	'<img src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/destination.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.setDestination('.$systemID.')" title="Set as destination" />&nbsp;' . 
+							'<img src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/waypoint.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.addWaypoint('.$systemID.')" title="Add waypoint" />&nbsp;';
 			}
 		}
 		else
@@ -98,5 +98,3 @@ class System
 		return false;
 	}
 }
-
-?>

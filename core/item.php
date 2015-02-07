@@ -59,10 +59,8 @@ class Item
 		global $phpbb_root_path;
 		
 		return	'<a class="postlink">'.$itemName.'</a>&nbsp;&nbsp;' .
-				'<img src="'.$phpbb_root_path.'/cyerus/evebbcode/images/information.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showInfo('.$itemID.')" title="Information" />&nbsp;' .
-				'<img src="'.$phpbb_root_path.'/cyerus/evebbcode/images/market.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showMarketDetails('.$itemID.')" title="Market details" />&nbsp;' .
-				'<img src="'.$phpbb_root_path.'/cyerus/evebbcode/images/preview.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showPreview('.$itemID.')" title="Preview" />&nbsp;';
+				'<img src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/information.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showInfo('.$itemID.')" title="Information" />&nbsp;' .
+				'<img src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/market.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showMarketDetails('.$itemID.')" title="Market details" />&nbsp;' .
+				'<img src="'.$phpbb_root_path.'/ext/cyerus/evebbcode/styles/all/theme/images/evebbcode/preview.png" onmouseover="this.style.cursor=\'pointer\'" onclick="CCPEVE.showPreview('.$itemID.')" title="Preview" />&nbsp;';
 	}
 }
-
-?>

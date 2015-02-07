@@ -83,9 +83,16 @@ class listener implements EventSubscriberInterface
 	*/
 	protected function evebbcode_do_magic($message)
 	{
-		$message = preg_replace_callback("#\[eveitem\]([0-9a-z \-\'\:]{1,75})\[/eveitem\]#is", array('cyerus\evebbcode\core\Item', 'getItem'), $message);
-		$message = preg_replace_callback("#\[evesystem\]([0-9a-z \-]{1,20})\[/evesystem\]#is", array('cyerus\evebbcode\core\System', 'getSystem'), $message);
-		$message = preg_replace_callback("#\[evefit\]([0-9a-z \-\'\n\[\]\,\#\:\(\)]{1,1500})\[/evefit\]#is", array('cyerus\evebbcode\core\Fitting', 'getFitting'), $message);
+		// Change the <br /> back to \n
+		$message = preg_replace('#<br />#si', "\n", $message);
+		
+		// Change the 
+		$message = preg_replace_callback("#\[eveitem\]([0-9a-z \-\'\:]{1,80})\[/eveitem\]#is", array('cyerus\evebbcode\core\Item', 'getItem'), $message);
+		$message = preg_replace_callback("#\[evesystem\]([0-9a-z \-]{1,30})\[/evesystem\]#is", array('cyerus\evebbcode\core\System', 'getSystem'), $message);
+		$message = preg_replace_callback("#\[evefit\]([0-9a-z \-\'\n\[\]\,\#\:\(\)]{1,2000})\[/evefit\]#is", array('cyerus\evebbcode\core\Fitting', 'getFitting'), $message);
+		
+		// Change the \n back to <br />
+		$message = preg_replace('#\n#si', "<br />", $message);
 		
 		return $message;
 	}
