@@ -91,9 +91,12 @@ class listener implements EventSubscriberInterface
 	public function evebbcode_modify_text_for_display_after($event)
 	{
 		// Flags seems to let us know what the type of 'Text' is.
-		// 2 - Topicpost or pm, seems to indicate a regular message.
+		// I haven't found a list defining them yet, so its guesswork for now.
+		// 
+		// 2 - Topicpost or pm without any BBcodes.
+		// 3 - Topicpost or pm with one or more BBcodes.
 		// 7 - Subtitle of forum ("Description of your first forum.")
-		if ($event['flags'] == 2)
+		if ($event['flags'] == 3)
 		{
 			$event['text'] = $this->evebbcode_do_magic($event['text']);
 		}

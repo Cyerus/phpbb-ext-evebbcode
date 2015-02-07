@@ -60,6 +60,3 @@ class m5_install_subsystem_data extends \phpbb\db\migration\migration
 		$insert_buffer->flush();
 	}
 }
-
-
-

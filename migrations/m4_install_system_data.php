@@ -60,6 +60,3 @@ class m4_install_system_data extends \phpbb\db\migration\migration
 		$insert_buffer->flush();
 	}
 }
-
-
-

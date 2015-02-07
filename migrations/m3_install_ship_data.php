@@ -60,5 +60,3 @@ class m3_install_ship_data extends \phpbb\db\migration\migration
 		$insert_buffer->flush();
 	}
 }
-
-

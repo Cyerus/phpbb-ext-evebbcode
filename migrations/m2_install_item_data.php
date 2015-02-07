@@ -60,5 +60,3 @@ class m2_install_item_data extends \phpbb\db\migration\migration
 		$insert_buffer->flush();
 	}
 }
-
-
