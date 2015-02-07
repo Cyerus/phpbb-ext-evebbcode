@@ -1,0 +1,5 @@
+parameters:
+    cyerus.evebbcode.tables.evebbcode_items: %core.table_prefix%evebbcode_items
+    cyerus.evebbcode.tables.evebbcode_ships: %core.table_prefix%evebbcode_ships
+    cyerus.evebbcode.tables.evebbcode_systems: %core.table_prefix%evebbcode_systems
+    cyerus.evebbcode.tables.evebbcode_subsystems: %core.table_prefix%evebbcode_subsystems

@@ -1,0 +1,14 @@
+imports:
+    - { resource: tables.yml }
+
+services:
+    cyerus.evebbcode.listener:
+        class: cyerus\evebbcode\event\listener
+        arguments:
+            - @dbal.conn
+            - @user
+            - @template
+            - @config
+            - @controller.helper
+        tags:
+            - { name: event.listener }
