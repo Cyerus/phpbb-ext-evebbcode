@@ -24,7 +24,7 @@ class m2_install_item_data extends \phpbb\db\migration\migration
 	*/
 	static public function depends_on()
 	{
-		return array('\phpbb\pages\migrations\v10x\m1_initial_schema');
+		return array('\cyerus\evebbcode\migrations\m1_install_schema');
 	}
 
 	/**
