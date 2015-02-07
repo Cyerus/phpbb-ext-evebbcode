@@ -51,7 +51,7 @@ class m2_install_item_data extends \phpbb\db\migration\migration
 		$insert_buffer = new \phpbb\db\sql_insert_buffer($this->db, $this->table_prefix . 'evebbcode_items');
 
 		// Load the items data array
-		$evebbcode_items = \cyerus\evebbcode\core\data\Item::getItems();
+		$evebbcode_items = \cyerus\evebbcode\core\data\Items::getItems();
 		
 		// Insert all the EVE Item data into the database
 		$insert_buffer->insert_all($evebbcode_items);

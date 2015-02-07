@@ -10,7 +10,7 @@
 
 namespace cyerus\evebbcode\core\data;
 
-class Item
+class Items
 {
 	// <editor-fold defaultstate="collapsed" desc="EVE Online - Items">
 	/*
