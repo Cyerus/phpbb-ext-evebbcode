@@ -36,7 +36,7 @@ class m5_install_subsystem_data extends \phpbb\db\migration\migration
 	public function update_data()
 	{
 		return array(
-			array('custom', array(array($this, 'evebbcode_insert_eve_subsytems_data'))),
+			array('custom', array(array($this, 'evebbcode_insert_eve_subsystems_data'))),
 		);
 	}
 

@@ -41,6 +41,14 @@ class listener implements EventSubscriberInterface
 		$this->helper = $helper;
 	}
 
+	/**
+	* Load common files during user setup
+	*
+	* @param object $event The event object
+	* @access public
+	* @return array Events
+	* @static function
+	*/
 	static public function getSubscribedEvents()
 	{
 		return array(
@@ -55,7 +63,6 @@ class listener implements EventSubscriberInterface
 	* Load common files during user setup
 	*
 	* @param object $event The event object
-	* @return null
 	* @access public
 	*/
 	public function evebbcode_user_setup($event)
@@ -111,5 +118,4 @@ class listener implements EventSubscriberInterface
 	{
 		$event['text'] = $this->evebbcode_do_magic($event['text']);
 	}
-	
 }
