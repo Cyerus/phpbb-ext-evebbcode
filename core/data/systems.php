@@ -12,7 +12,7 @@ namespace cyerus\evebbcode\core\data;
 
 class Systems
 {
-	// <editor-fold defaultstate="collapsed" desc="EVE Online - Items">
+	// <editor-fold defaultstate="collapsed" desc="EVE Online - Systems">
 	/*
 	* Function that holds the EVE Systems table as defined in a huge array.
 	*
@@ -21745,6 +21745,10 @@ class Systems
 				'systemName'  => 'Reitsato',
 			),
 			array(
+				'systemID'  => 31000005,
+				'systemName'  => 'Thera',
+			),
+			array(
 				'systemID'  => 31000007,
 				'systemName'  => 'J105443',
 			),
@@ -31735,6 +31739,406 @@ class Systems
 			array(
 				'systemID'  => 31002504,
 				'systemName'  => 'J125657',
+			),
+			array(
+				'systemID'  => 31002505,
+				'systemName'  => 'J015092',
+			),
+			array(
+				'systemID'  => 31002506,
+				'systemName'  => 'J005834',
+			),
+			array(
+				'systemID'  => 31002507,
+				'systemName'  => 'J012402',
+			),
+			array(
+				'systemID'  => 31002508,
+				'systemName'  => 'J005926',
+			),
+			array(
+				'systemID'  => 31002509,
+				'systemName'  => 'J010569',
+			),
+			array(
+				'systemID'  => 31002510,
+				'systemName'  => 'J012157',
+			),
+			array(
+				'systemID'  => 31002511,
+				'systemName'  => 'J002757',
+			),
+			array(
+				'systemID'  => 31002512,
+				'systemName'  => 'J004791',
+			),
+			array(
+				'systemID'  => 31002513,
+				'systemName'  => 'J004317',
+			),
+			array(
+				'systemID'  => 31002514,
+				'systemName'  => 'J002216',
+			),
+			array(
+				'systemID'  => 31002515,
+				'systemName'  => 'J005482',
+			),
+			array(
+				'systemID'  => 31002516,
+				'systemName'  => 'J005900',
+			),
+			array(
+				'systemID'  => 31002517,
+				'systemName'  => 'J013070',
+			),
+			array(
+				'systemID'  => 31002518,
+				'systemName'  => 'J001057',
+			),
+			array(
+				'systemID'  => 31002519,
+				'systemName'  => 'J011321',
+			),
+			array(
+				'systemID'  => 31002520,
+				'systemName'  => 'J013123',
+			),
+			array(
+				'systemID'  => 31002521,
+				'systemName'  => 'J012735',
+			),
+			array(
+				'systemID'  => 31002522,
+				'systemName'  => 'J012635',
+			),
+			array(
+				'systemID'  => 31002523,
+				'systemName'  => 'J010000',
+			),
+			array(
+				'systemID'  => 31002524,
+				'systemName'  => 'J001890',
+			),
+			array(
+				'systemID'  => 31002525,
+				'systemName'  => 'J002964',
+			),
+			array(
+				'systemID'  => 31002526,
+				'systemName'  => 'J004686',
+			),
+			array(
+				'systemID'  => 31002527,
+				'systemName'  => 'J011563',
+			),
+			array(
+				'systemID'  => 31002528,
+				'systemName'  => 'J001348',
+			),
+			array(
+				'systemID'  => 31002529,
+				'systemName'  => 'J002838',
+			),
+			array(
+				'systemID'  => 31002530,
+				'systemName'  => 'J001670',
+			),
+			array(
+				'systemID'  => 31002531,
+				'systemName'  => 'J014348',
+			),
+			array(
+				'systemID'  => 31002532,
+				'systemName'  => 'J003789',
+			),
+			array(
+				'systemID'  => 31002533,
+				'systemName'  => 'J012794',
+			),
+			array(
+				'systemID'  => 31002534,
+				'systemName'  => 'J005923',
+			),
+			array(
+				'systemID'  => 31002535,
+				'systemName'  => 'J001398',
+			),
+			array(
+				'systemID'  => 31002536,
+				'systemName'  => 'J011339',
+			),
+			array(
+				'systemID'  => 31002537,
+				'systemName'  => 'J004283',
+			),
+			array(
+				'systemID'  => 31002538,
+				'systemName'  => 'J002625',
+			),
+			array(
+				'systemID'  => 31002539,
+				'systemName'  => 'J004470',
+			),
+			array(
+				'systemID'  => 31002540,
+				'systemName'  => 'J011824',
+			),
+			array(
+				'systemID'  => 31002541,
+				'systemName'  => 'J010247',
+			),
+			array(
+				'systemID'  => 31002542,
+				'systemName'  => 'J002423',
+			),
+			array(
+				'systemID'  => 31002543,
+				'systemName'  => 'J001302',
+			),
+			array(
+				'systemID'  => 31002544,
+				'systemName'  => 'J010556',
+			),
+			array(
+				'systemID'  => 31002545,
+				'systemName'  => 'J011778',
+			),
+			array(
+				'systemID'  => 31002546,
+				'systemName'  => 'J005259',
+			),
+			array(
+				'systemID'  => 31002547,
+				'systemName'  => 'J005969',
+			),
+			array(
+				'systemID'  => 31002548,
+				'systemName'  => 'J001769',
+			),
+			array(
+				'systemID'  => 31002549,
+				'systemName'  => 'J004150',
+			),
+			array(
+				'systemID'  => 31002550,
+				'systemName'  => 'J005872',
+			),
+			array(
+				'systemID'  => 31002551,
+				'systemName'  => 'J011376',
+			),
+			array(
+				'systemID'  => 31002552,
+				'systemName'  => 'J005299',
+			),
+			array(
+				'systemID'  => 31002553,
+				'systemName'  => 'J011355',
+			),
+			array(
+				'systemID'  => 31002554,
+				'systemName'  => 'J011195',
+			),
+			array(
+				'systemID'  => 31002555,
+				'systemName'  => 'J005280',
+			),
+			array(
+				'systemID'  => 31002556,
+				'systemName'  => 'J010811',
+			),
+			array(
+				'systemID'  => 31002557,
+				'systemName'  => 'J001694',
+			),
+			array(
+				'systemID'  => 31002558,
+				'systemName'  => 'J003941',
+			),
+			array(
+				'systemID'  => 31002559,
+				'systemName'  => 'J011790',
+			),
+			array(
+				'systemID'  => 31002560,
+				'systemName'  => 'J013146',
+			),
+			array(
+				'systemID'  => 31002561,
+				'systemName'  => 'J004998',
+			),
+			array(
+				'systemID'  => 31002562,
+				'systemName'  => 'J003382',
+			),
+			array(
+				'systemID'  => 31002563,
+				'systemName'  => 'J003546',
+			),
+			array(
+				'systemID'  => 31002564,
+				'systemName'  => 'J001820',
+			),
+			array(
+				'systemID'  => 31002565,
+				'systemName'  => 'J012578',
+			),
+			array(
+				'systemID'  => 31002566,
+				'systemName'  => 'J012773',
+			),
+			array(
+				'systemID'  => 31002567,
+				'systemName'  => 'J005223',
+			),
+			array(
+				'systemID'  => 31002568,
+				'systemName'  => 'J005663',
+			),
+			array(
+				'systemID'  => 31002569,
+				'systemName'  => 'J003793',
+			),
+			array(
+				'systemID'  => 31002570,
+				'systemName'  => 'J004128',
+			),
+			array(
+				'systemID'  => 31002571,
+				'systemName'  => 'J005070',
+			),
+			array(
+				'systemID'  => 31002572,
+				'systemName'  => 'J001025',
+			),
+			array(
+				'systemID'  => 31002573,
+				'systemName'  => 'J005724',
+			),
+			array(
+				'systemID'  => 31002574,
+				'systemName'  => 'J004921',
+			),
+			array(
+				'systemID'  => 31002575,
+				'systemName'  => 'J012686',
+			),
+			array(
+				'systemID'  => 31002576,
+				'systemName'  => 'J010366',
+			),
+			array(
+				'systemID'  => 31002577,
+				'systemName'  => 'J012475',
+			),
+			array(
+				'systemID'  => 31002578,
+				'systemName'  => 'J015227',
+			),
+			array(
+				'systemID'  => 31002579,
+				'systemName'  => 'J010951',
+			),
+			array(
+				'systemID'  => 31002580,
+				'systemName'  => 'J000895',
+			),
+			array(
+				'systemID'  => 31002581,
+				'systemName'  => 'J000487',
+			),
+			array(
+				'systemID'  => 31002582,
+				'systemName'  => 'J000621',
+			),
+			array(
+				'systemID'  => 31002583,
+				'systemName'  => 'J000551',
+			),
+			array(
+				'systemID'  => 31002584,
+				'systemName'  => 'J000630',
+			),
+			array(
+				'systemID'  => 31002585,
+				'systemName'  => 'J000452',
+			),
+			array(
+				'systemID'  => 31002586,
+				'systemName'  => 'J000327',
+			),
+			array(
+				'systemID'  => 31002587,
+				'systemName'  => 'J000186',
+			),
+			array(
+				'systemID'  => 31002588,
+				'systemName'  => 'J000528',
+			),
+			array(
+				'systemID'  => 31002589,
+				'systemName'  => 'J000353',
+			),
+			array(
+				'systemID'  => 31002590,
+				'systemName'  => 'J000461',
+			),
+			array(
+				'systemID'  => 31002591,
+				'systemName'  => 'J000522',
+			),
+			array(
+				'systemID'  => 31002592,
+				'systemName'  => 'J000965',
+			),
+			array(
+				'systemID'  => 31002593,
+				'systemName'  => 'J000304',
+			),
+			array(
+				'systemID'  => 31002594,
+				'systemName'  => 'J000595',
+			),
+			array(
+				'systemID'  => 31002595,
+				'systemName'  => 'J000685',
+			),
+			array(
+				'systemID'  => 31002596,
+				'systemName'  => 'J000844',
+			),
+			array(
+				'systemID'  => 31002597,
+				'systemName'  => 'J000719',
+			),
+			array(
+				'systemID'  => 31002598,
+				'systemName'  => 'J000726',
+			),
+			array(
+				'systemID'  => 31002599,
+				'systemName'  => 'J000214',
+			),
+			array(
+				'systemID'  => 31002600,
+				'systemName'  => 'J000652',
+			),
+			array(
+				'systemID'  => 31002601,
+				'systemName'  => 'J000313',
+			),
+			array(
+				'systemID'  => 31002602,
+				'systemName'  => 'J000687',
+			),
+			array(
+				'systemID'  => 31002603,
+				'systemName'  => 'J000427',
+			),
+			array(
+				'systemID'  => 31002604,
+				'systemName'  => 'J000102',
 			),
 		);
 	}
