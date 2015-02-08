@@ -598,7 +598,7 @@ class Items
 			),
 			array(
 				'itemID' => 421,
-				'itemName' => 'Basic Capacitor Recharger',
+				'itemName' => '\'Basic\' Capacitor Recharger',
 				'categoryID' => 7,
 			),
 			array(
@@ -823,7 +823,7 @@ class Items
 			),
 			array(
 				'itemID' => 506,
-				'itemName' => 'Basic Capacitor Power Relay',
+				'itemName' => '\'Basic\' Capacitor Power Relay',
 				'categoryID' => 7,
 			),
 			array(
@@ -833,7 +833,7 @@ class Items
 			),
 			array(
 				'itemID' => 509,
-				'itemName' => 'Basic Capacitor Flux Coil',
+				'itemName' => '\'Basic\' Capacitor Flux Coil',
 				'categoryID' => 7,
 			),
 			array(
@@ -1503,12 +1503,12 @@ class Items
 			),
 			array(
 				'itemID' => 830,
-				'itemName' => 'Dual 650mm Repeating Artillery I Blueprint',
+				'itemName' => 'Dual 650mm Repeating Cannon I Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 831,
-				'itemName' => '800mm Repeating Artillery I Blueprint',
+				'itemName' => '800mm Repeating Cannon I Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -2433,7 +2433,7 @@ class Items
 			),
 			array(
 				'itemID' => 1192,
-				'itemName' => 'Basic Overdrive Injector System',
+				'itemName' => '\'Basic\' Overdrive Injector System',
 				'categoryID' => 7,
 			),
 			array(
@@ -2588,12 +2588,12 @@ class Items
 			),
 			array(
 				'itemID' => 1240,
-				'itemName' => 'Basic Reinforced Bulkheads',
+				'itemName' => '\'Basic\' Reinforced Bulkheads',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 1242,
-				'itemName' => 'Basic Nanofiber Internal Structure',
+				'itemName' => '\'Basic\' Nanofiber Internal Structure',
 				'categoryID' => 7,
 			),
 			array(
@@ -2773,7 +2773,7 @@ class Items
 			),
 			array(
 				'itemID' => 1315,
-				'itemName' => 'Basic Expanded Cargohold',
+				'itemName' => '\'Basic\' Expanded Cargohold',
 				'categoryID' => 7,
 			),
 			array(
@@ -2843,27 +2843,27 @@ class Items
 			),
 			array(
 				'itemID' => 1401,
-				'itemName' => 'Basic Inertia Stabilizers',
+				'itemName' => '\'Basic\' Inertial Stabilizers',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 1403,
-				'itemName' => 'Inertia Stabilizers I',
+				'itemName' => 'Inertial Stabilizers I',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 1404,
-				'itemName' => 'Inertia Stabilizers I Blueprint',
+				'itemName' => 'Inertial Stabilizers I Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 1405,
-				'itemName' => 'Inertia Stabilizers II',
+				'itemName' => 'Inertial Stabilizers II',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 1406,
-				'itemName' => 'Inertia Stabilizers II Blueprint',
+				'itemName' => 'Inertial Stabilizers II Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -2913,7 +2913,7 @@ class Items
 			),
 			array(
 				'itemID' => 1537,
-				'itemName' => 'Basic Power Diagnostic System',
+				'itemName' => '\'Basic\' Power Diagnostic System',
 				'categoryID' => 7,
 			),
 			array(
@@ -3298,7 +3298,7 @@ class Items
 			),
 			array(
 				'itemID' => 1982,
-				'itemName' => 'Basic LADAR Backup Array',
+				'itemName' => 'Basic Ladar Backup Array',
 				'categoryID' => 7,
 			),
 			array(
@@ -3810,11 +3810,6 @@ class Items
 				'itemID' => 2211,
 				'itemName' => 'Sansha Juggernaut Torpedo Blueprint',
 				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 2212,
-				'itemName' => 'Ghost Heavy Missile',
-				'categoryID' => 8,
 			),
 			array(
 				'itemID' => 2213,
@@ -5053,12 +5048,12 @@ class Items
 			),
 			array(
 				'itemID' => 2583,
-				'itemName' => 'LADAR Backup Array I',
+				'itemName' => 'Ladar Backup Array I',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 2584,
-				'itemName' => 'LADAR Backup Array II',
+				'itemName' => 'Ladar Backup Array II',
 				'categoryID' => 7,
 			),
 			array(
@@ -5808,7 +5803,7 @@ class Items
 			),
 			array(
 				'itemID' => 2756,
-				'itemName' => 'Capital Ship Assembly Array Blueprint',
+				'itemName' => 'Supercapital Ship Assembly Array Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -5853,7 +5848,7 @@ class Items
 			),
 			array(
 				'itemID' => 2765,
-				'itemName' => 'Intensive Refining Array Blueprint',
+				'itemName' => 'Intensive Reprocessing Array Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -5863,7 +5858,7 @@ class Items
 			),
 			array(
 				'itemID' => 2767,
-				'itemName' => 'Medium Intensive Refining Array Blueprint',
+				'itemName' => 'Compression Array Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -5873,7 +5868,7 @@ class Items
 			),
 			array(
 				'itemID' => 2769,
-				'itemName' => 'Refining Array Blueprint',
+				'itemName' => 'Reprocessing Array Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -5893,7 +5888,7 @@ class Items
 			),
 			array(
 				'itemID' => 2773,
-				'itemName' => 'X-Large Ship Assembly Array Blueprint',
+				'itemName' => 'Capital Ship Assembly Array Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -6128,7 +6123,7 @@ class Items
 			),
 			array(
 				'itemID' => 2821,
-				'itemName' => 'Mobile Laboratory Blueprint',
+				'itemName' => 'Research Laboratory Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -6473,7 +6468,7 @@ class Items
 			),
 			array(
 				'itemID' => 2954,
-				'itemName' => 'Dual 650mm Repeating Artillery II Blueprint',
+				'itemName' => 'Dual 650mm Repeating Cannon II Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -7778,27 +7773,27 @@ class Items
 			),
 			array(
 				'itemID' => 3237,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Management EM-802',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Management EM-802',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3238,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Management EM-804',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Management EM-804',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3239,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Management EM-806',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Management EM-806',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3240,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Systems Operation EO-602',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Systems Operation EO-602',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3241,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Systems Operation EO-604',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Systems Operation EO-604',
 				'categoryID' => 20,
 			),
 			array(
@@ -7823,22 +7818,22 @@ class Items
 			),
 			array(
 				'itemID' => 3246,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Systems Operation EO-606',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Systems Operation EO-606',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3247,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Emission Systems ES-702',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Emission Systems ES-702',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3248,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Emission Systems ES-704',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Emission Systems ES-704',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3249,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Emission Systems ES-706',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Emission Systems ES-706',
 				'categoryID' => 20,
 			),
 			array(
@@ -7873,17 +7868,17 @@ class Items
 			),
 			array(
 				'itemID' => 3256,
-				'itemName' => 'Inherent Implants \'Squire\' Engineering EG-602',
+				'itemName' => 'Inherent Implants \'Squire\' Power Grid Management EG-602',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3257,
-				'itemName' => 'Inherent Implants \'Squire\' Engineering EG-604',
+				'itemName' => 'Inherent Implants \'Squire\' Power Grid Management EG-604',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3258,
-				'itemName' => 'Inherent Implants \'Squire\' Engineering EG-606',
+				'itemName' => 'Inherent Implants \'Squire\' Power Grid Management EG-606',
 				'categoryID' => 20,
 			),
 			array(
@@ -7903,17 +7898,17 @@ class Items
 			),
 			array(
 				'itemID' => 3265,
-				'itemName' => 'Zainou \'Gypsy\' Electronics EE-602',
+				'itemName' => 'Zainou \'Gypsy\' CPU Management EE-602',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3266,
-				'itemName' => 'Zainou \'Gypsy\' Electronics EE-604',
+				'itemName' => 'Zainou \'Gypsy\' CPU Management EE-604',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 3267,
-				'itemName' => 'Zainou \'Gypsy\' Electronics EE-606',
+				'itemName' => 'Zainou \'Gypsy\' CPU Management EE-606',
 				'categoryID' => 20,
 			),
 			array(
@@ -8358,7 +8353,7 @@ class Items
 			),
 			array(
 				'itemID' => 3385,
-				'itemName' => 'Refining',
+				'itemName' => 'Reprocessing',
 				'categoryID' => 16,
 			),
 			array(
@@ -8373,12 +8368,12 @@ class Items
 			),
 			array(
 				'itemID' => 3388,
-				'itemName' => 'Material Efficiency',
+				'itemName' => 'Advanced Industry',
 				'categoryID' => 16,
 			),
 			array(
 				'itemID' => 3389,
-				'itemName' => 'Refinery Efficiency',
+				'itemName' => 'Reprocessing Efficiency',
 				'categoryID' => 16,
 			),
 			array(
@@ -8398,22 +8393,22 @@ class Items
 			),
 			array(
 				'itemID' => 3395,
-				'itemName' => 'Frigate Construction',
+				'itemName' => 'Advanced Small Ship Construction',
 				'categoryID' => 16,
 			),
 			array(
 				'itemID' => 3396,
-				'itemName' => 'Industrial Construction',
+				'itemName' => 'Advanced Industrial Ship Construction',
 				'categoryID' => 16,
 			),
 			array(
 				'itemID' => 3397,
-				'itemName' => 'Cruiser Construction',
+				'itemName' => 'Advanced Medium Ship Construction',
 				'categoryID' => 16,
 			),
 			array(
 				'itemID' => 3398,
-				'itemName' => 'Battleship Construction',
+				'itemName' => 'Advanced Large Ship Construction',
 				'categoryID' => 16,
 			),
 			array(
@@ -8443,7 +8438,7 @@ class Items
 			),
 			array(
 				'itemID' => 3408,
-				'itemName' => 'Reverse Engineering',
+				'itemName' => 'Sleeper Encryption Methods',
 				'categoryID' => 16,
 			),
 			array(
@@ -8588,7 +8583,7 @@ class Items
 			),
 			array(
 				'itemID' => 3437,
-				'itemName' => 'Scout Drone Operation',
+				'itemName' => 'Drone Avionics',
 				'categoryID' => 16,
 			),
 			array(
@@ -10108,12 +10103,12 @@ class Items
 			),
 			array(
 				'itemID' => 4066,
-				'itemName' => 'Women\'s \'Quafe\' T-shirt',
+				'itemName' => 'Women\'s \'Quafe\' T-shirt YC 113',
 				'categoryID' => 30,
 			),
 			array(
 				'itemID' => 4067,
-				'itemName' => 'Men\'s \'Quafe\' T-shirt',
+				'itemName' => 'Men\'s \'Quafe\' T-shirt YC 113',
 				'categoryID' => 30,
 			),
 			array(
@@ -11418,12 +11413,12 @@ class Items
 			),
 			array(
 				'itemID' => 4365,
-				'itemName' => 'Men\'s \'Quafe\' T-shirt YC114',
+				'itemName' => 'Men\'s \'Quafe\' T-shirt YC 114',
 				'categoryID' => 30,
 			),
 			array(
 				'itemID' => 4366,
-				'itemName' => 'Women\'s \'Quafe\' T-shirt YC114',
+				'itemName' => 'Women\'s \'Quafe\' T-shirt YC 114',
 				'categoryID' => 30,
 			),
 			array(
@@ -11577,43 +11572,8 @@ class Items
 				'categoryID' => 16,
 			),
 			array(
-				'itemID' => 4421,
-				'itemName' => 'F-a10 Buffer Capacitor Regenerator',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 4423,
-				'itemName' => 'Industrial Capacitor Recharger',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 4425,
-				'itemName' => 'AGM Capacitor Charge Array',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 4427,
-				'itemName' => 'Secondary Parallel Link-Capacitor',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 4431,
-				'itemName' => 'F-b10 Nominal Capacitor Regenerator',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 4433,
-				'itemName' => 'Barton Reactor Capacitor Recharger I',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 4435,
-				'itemName' => 'Eutectic Capacitor Charge Array',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 4437,
-				'itemName' => 'Fixed Parallel Link-Capacitor I',
+				'itemName' => 'Eutectic Compact Cap Recharger',
 				'categoryID' => 7,
 			),
 			array(
@@ -11858,7 +11818,7 @@ class Items
 			),
 			array(
 				'itemID' => 5091,
-				'itemName' => '\'Regard\' Remote Capacitor Transmitter',
+				'itemName' => 'Small \'Regard\' Remote Capacitor Transmitter',
 				'categoryID' => 7,
 			),
 			array(
@@ -11927,43 +11887,18 @@ class Items
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 5231,
-				'itemName' => 'EP-R Argon Ion Basic Excavation Pulse',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 5233,
 				'itemName' => 'Single Diode Basic Mining Laser',
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 5235,
-				'itemName' => 'Xenon Basic Drilling Beam',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5237,
-				'itemName' => 'Rubin Basic Particle Bore Stream',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 5239,
-				'itemName' => 'EP-S Gaussian Excavation Pulse',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5241,
-				'itemName' => 'Dual Diode Mining Laser I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5243,
-				'itemName' => 'XeCl Drilling Beam I',
+				'itemName' => 'EP-S Gaussian Scoped Mining Laser',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 5245,
-				'itemName' => 'Cu Vapor Particle Bore Stream I',
+				'itemName' => 'Particle Bore Compact Mining Laser',
 				'categoryID' => 7,
 			),
 			array(
@@ -12107,203 +12042,33 @@ class Items
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 5479,
-				'itemName' => 'Marked Modified SS Expanded Cargo',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5481,
-				'itemName' => 'Partial Hull Conversion Expanded Cargo',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5483,
-				'itemName' => 'Alpha Hull Mod Expanded Cargo',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5485,
-				'itemName' => 'Type-E Altered SS Expanded Cargo',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5487,
-				'itemName' => 'Mark I Modified SS Expanded Cargo',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5489,
-				'itemName' => 'Local Hull Conversion Expanded Cargo I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5491,
-				'itemName' => 'Beta Hull Mod Expanded Cargo',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 5493,
-				'itemName' => 'Type-D Altered SS Expanded Cargo',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5519,
-				'itemName' => 'Marked Modified SS Inertial Stabilizers',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5521,
-				'itemName' => 'Partial Hull Conversion Inertial Stabilizers',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5523,
-				'itemName' => 'Alpha Hull Mod Inertial Stabilizers',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5525,
-				'itemName' => 'Type-E Altered SS Inertial Stabilizers',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5527,
-				'itemName' => 'Mark I Modified SS Inertial Stabilizers',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5529,
-				'itemName' => 'Local Hull Conversion Inertial Stabilizers I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5531,
-				'itemName' => 'Beta Hull Mod Inertial Stabilizers',
+				'itemName' => 'Type-D Restrained Expanded Cargo',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 5533,
-				'itemName' => 'Type-D Altered SS Inertial Stabilizers',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5559,
-				'itemName' => 'Partial Hull Conversion Nanofiber Structure',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5561,
-				'itemName' => 'Local Hull Conversion Nanofiber Structure I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5591,
-				'itemName' => 'Alpha Hull Mod Nanofiber Structure',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5593,
-				'itemName' => 'Type-E Altered SS Nanofiber Structure',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5595,
-				'itemName' => 'Marked Modified SS Nanofiber Structure',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5597,
-				'itemName' => 'Beta Hull Mod Nanofiber Structure',
+				'itemName' => 'Type-D Restrained Inertial Stabilizers',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 5599,
-				'itemName' => 'Type-D Altered SS Nanofiber Structure',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5601,
-				'itemName' => 'Mark I Modified SS Nanofiber Structure',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5611,
-				'itemName' => 'Partial Hull Conversion Overdrive Injector',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5613,
-				'itemName' => 'Alpha Hull Mod Overdrive Injector',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5615,
-				'itemName' => 'Type-E Altered SS Overdrive Injector',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5617,
-				'itemName' => 'Marked Modified SS Overdrive Injector',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5627,
-				'itemName' => 'Local Hull Conversion Overdrive Injector I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5629,
-				'itemName' => 'Beta Hull Mod Overdrive Injector',
+				'itemName' => 'Type-D Restrained Nanofiber Structure',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 5631,
-				'itemName' => 'Type-D Altered SS Overdrive Injector',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5633,
-				'itemName' => 'Mark I Modified SS Overdrive Injector',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5643,
-				'itemName' => 'Local Hull Conversion Reinforced Bulkheads I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5645,
-				'itemName' => 'Beta Hull Mod Reinforced Bulkheads',
+				'itemName' => 'Type-D Restrained Overdrive Injector',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 5647,
-				'itemName' => 'Type-D Altered SS Reinforced Bulkheads',
+				'itemName' => 'Type-D Restrained Reinforced Bulkheads',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 5649,
-				'itemName' => 'Mark I Modified SS Reinforced Bulkheads',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5675,
-				'itemName' => 'Partial Hull Conversion Reinforced Bulkheads',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5677,
-				'itemName' => 'Alpha Hull Mod Reinforced Bulkheads',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5679,
-				'itemName' => 'Type-E Altered SS Reinforced Bulkheads',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 5681,
-				'itemName' => 'Marked Modified SS Reinforced Bulkheads',
+				'itemName' => 'Mark I Compact Reinforced Bulkheads',
 				'categoryID' => 7,
 			),
 			array(
@@ -12587,23 +12352,13 @@ class Items
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 6129,
-				'itemName' => 'Surface Cargo Scanner I',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 6131,
-				'itemName' => 'Prototype Freight Sensors',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 6133,
-				'itemName' => 'Interior Type-E Cargo Identifier',
+				'itemName' => 'Enduring Cargo Scanner',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 6135,
-				'itemName' => 'PL-0 Shipment Probe',
+				'itemName' => 'Scoped Cargo Scanner',
 				'categoryID' => 7,
 			),
 			array(
@@ -12663,7 +12418,7 @@ class Items
 			),
 			array(
 				'itemID' => 6199,
-				'itemName' => 'Reserve LADAR Scanners',
+				'itemName' => 'Reserve Ladar Scanners',
 				'categoryID' => 7,
 			),
 			array(
@@ -12688,7 +12443,7 @@ class Items
 			),
 			array(
 				'itemID' => 6216,
-				'itemName' => 'Emergency LADAR Scanners',
+				'itemName' => 'Emergency Ladar Scanners',
 				'categoryID' => 7,
 			),
 			array(
@@ -12703,7 +12458,7 @@ class Items
 			),
 			array(
 				'itemID' => 6222,
-				'itemName' => 'Protected LADAR Backup Cluster I',
+				'itemName' => 'Protected Ladar Backup Cluster I',
 				'categoryID' => 7,
 			),
 			array(
@@ -12738,7 +12493,7 @@ class Items
 			),
 			array(
 				'itemID' => 6241,
-				'itemName' => 'Sealed LADAR Backup Cluster',
+				'itemName' => 'Sealed Ladar Backup Cluster',
 				'categoryID' => 7,
 			),
 			array(
@@ -12758,12 +12513,12 @@ class Items
 			),
 			array(
 				'itemID' => 6251,
-				'itemName' => 'Surrogate LADAR Reserve Array I',
+				'itemName' => 'Surrogate Ladar Reserve Array I',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 6252,
-				'itemName' => 'F-43 Repetitive LADAR Backup Sensors',
+				'itemName' => 'F-43 Repetitive Ladar Backup Sensors',
 				'categoryID' => 7,
 			),
 			array(
@@ -12828,12 +12583,12 @@ class Items
 			),
 			array(
 				'itemID' => 6289,
-				'itemName' => 'Surplus LADAR Reserve Array',
+				'itemName' => 'Surplus Ladar Reserve Array',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 6290,
-				'itemName' => 'F-42 Reiterative LADAR Backup Sensors',
+				'itemName' => 'F-42 Reiterative Ladar Backup Sensors',
 				'categoryID' => 7,
 			),
 			array(
@@ -12967,43 +12722,13 @@ class Items
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 6525,
-				'itemName' => 'Ta3 Perfunctory Vessel Probe',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 6527,
-				'itemName' => 'Rudimentary Ship Scanner I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 6529,
-				'itemName' => 'Speculative Ship Identifier I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 6531,
-				'itemName' => 'Practical Type-E Ship Probe',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 6567,
-				'itemName' => 'ML-3 Amphilotite Mining Probe',
+				'itemName' => 'Compact Ship Scanner',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 6569,
-				'itemName' => 'Residual Survey Scanner I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 6571,
-				'itemName' => 'Rock-Scanning Sensor Array I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 6573,
-				'itemName' => '\'Dactyl\' Type-E Asteroid Analyzer',
+				'itemName' => 'Scoped Survey Scanner',
 				'categoryID' => 7,
 			),
 			array(
@@ -13687,11 +13412,6 @@ class Items
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 7993,
-				'itemName' => 'Experimental TE-2100 Light Missile Launcher',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 7997,
 				'itemName' => 'XR-3200 Heavy Missile Bay',
 				'categoryID' => 7,
@@ -13723,17 +13443,12 @@ class Items
 			),
 			array(
 				'itemID' => 8089,
-				'itemName' => 'Upgraded \'Malkuth\' Light Missile Launcher',
+				'itemName' => 'Compact Light Missile Launcher',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 8091,
-				'itemName' => 'Limited \'Limos\' Light Missile Launcher',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8093,
-				'itemName' => 'Prototype \'Arbalest\' Light Missile Launcher',
+				'itemName' => 'Ample Light Missile Launcher',
 				'categoryID' => 7,
 			),
 			array(
@@ -13767,163 +13482,33 @@ class Items
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 8131,
-				'itemName' => 'Local Power Plant Manager: Capacitor Flux I',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 8133,
-				'itemName' => 'Beta Reactor Control: Capacitor Flux I',
+				'itemName' => 'Compact Capacitor Flux Coil',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 8135,
-				'itemName' => 'Type-D Power Core Modification: Capacitor Flux',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8137,
-				'itemName' => 'Mark I Generator Refitting: Capacitor Flux',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8163,
-				'itemName' => 'Partial Power Plant Manager: Capacitor Flux',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8165,
-				'itemName' => 'Alpha Reactor Control: Capacitor Flux',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8167,
-				'itemName' => 'Type-E Power Core Modification: Capacitor Flux',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8169,
-				'itemName' => 'Marked Generator Refitting: Capacitor Flux',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8171,
-				'itemName' => 'Local Power Plant Manager: Capacity Power Relay I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8173,
-				'itemName' => 'Beta Reactor Control: Capacitor Power Relay I',
+				'itemName' => 'Restrained Capacitor Flux Coil',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 8175,
-				'itemName' => 'Type-D Power Core Modification: Capacitor Power Relay',
+				'itemName' => 'Type-D Restrained Capacitor Power Relay',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 8177,
-				'itemName' => 'Mark I Generator Refitting: Capacitor Power Relay',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8203,
-				'itemName' => 'Partial Power Plant Manager: Capacity Power Relay',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8205,
-				'itemName' => 'Alpha Reactor Control: Capacitor Power Relay',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8207,
-				'itemName' => 'Type-E Power Core Modification: Capacitor Power Relay',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8209,
-				'itemName' => 'Marked Generator Refitting: Capacitor Power Relay',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8211,
-				'itemName' => 'Partial Power Plant Manager: Diagnostic System',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8213,
-				'itemName' => 'Alpha Reactor Control: Diagnostic System',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8215,
-				'itemName' => 'Type-E Power Core Modification: Diagnostic System',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8217,
-				'itemName' => 'Marked Generator Refitting: Diagnostic System',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8219,
-				'itemName' => 'Local Power Plant Manager: Diagnostic System I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8221,
-				'itemName' => 'Beta Reactor Control: Diagnostic System I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8223,
-				'itemName' => 'Type-D Power Core Modification: Diagnostic System',
+				'itemName' => 'Mark I Compact Capacitor Power Relay',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 8225,
-				'itemName' => 'Mark I Generator Refitting: Diagnostic System',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8251,
-				'itemName' => 'Partial Power Plant Manager: Reaction Control',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8253,
-				'itemName' => 'Alpha Reactor Control: Reaction Control',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8255,
-				'itemName' => 'Type-E Power Core Modification: Reaction Control',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8257,
-				'itemName' => 'Marked Generator Refitting: Reaction Control',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8259,
-				'itemName' => 'Local Power Plant Manager: Reaction Control I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8261,
-				'itemName' => 'Beta Reactor Control: Reaction Control I',
+				'itemName' => 'Mark I Compact Power Diagnostic System',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 8263,
-				'itemName' => 'Type-D Power Core Modification: Reaction Control',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8265,
-				'itemName' => 'Mark I Generator Refitting: Reaction Control',
+				'itemName' => 'Compact Reactor Control Unit',
 				'categoryID' => 7,
 			),
 			array(
@@ -14167,43 +13752,8 @@ class Items
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 8743,
-				'itemName' => 'Nanomechanical CPU Enhancer',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8744,
-				'itemName' => 'Nanoelectrical Co-Processor',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8745,
-				'itemName' => 'Photonic CPU Enhancer',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8746,
-				'itemName' => 'Quantum Co-Processor',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8747,
-				'itemName' => 'Nanomechanical CPU Enhancer I',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 8748,
-				'itemName' => 'Nanoelectrical Co-Processor I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8749,
-				'itemName' => 'Photonic CPU Enhancer I',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 8750,
-				'itemName' => 'Quantum Co-Processor I',
+				'itemName' => 'Upgraded Co-Processor',
 				'categoryID' => 7,
 			),
 			array(
@@ -16068,7 +15618,7 @@ class Items
 			),
 			array(
 				'itemID' => 11444,
-				'itemName' => 'Amarrian Starship Engineering',
+				'itemName' => 'Amarr Starship Engineering',
 				'categoryID' => 16,
 			),
 			array(
@@ -16098,7 +15648,7 @@ class Items
 			),
 			array(
 				'itemID' => 11450,
-				'itemName' => 'Gallentean Starship Engineering',
+				'itemName' => 'Gallente Starship Engineering',
 				'categoryID' => 16,
 			),
 			array(
@@ -16943,12 +16493,12 @@ class Items
 			),
 			array(
 				'itemID' => 11824,
-				'itemName' => 'LADAR Backup Array I Blueprint',
+				'itemName' => 'Ladar Backup Array I Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 11825,
-				'itemName' => 'LADAR Backup Array II Blueprint',
+				'itemName' => 'Ladar Backup Array II Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -17808,12 +17358,12 @@ class Items
 			),
 			array(
 				'itemID' => 12238,
-				'itemName' => 'Refining Array',
+				'itemName' => 'Reprocessing Array',
 				'categoryID' => 23,
 			),
 			array(
 				'itemID' => 12239,
-				'itemName' => 'Medium Intensive Refining Array',
+				'itemName' => 'Compression Array',
 				'categoryID' => 23,
 			),
 			array(
@@ -18738,7 +18288,7 @@ class Items
 			),
 			array(
 				'itemID' => 13216,
-				'itemName' => 'Zainou \'Gypsy\' Electronics EE-603',
+				'itemName' => 'Zainou \'Gypsy\' CPU Management EE-603',
 				'categoryID' => 20,
 			),
 			array(
@@ -18953,17 +18503,17 @@ class Items
 			),
 			array(
 				'itemID' => 13259,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Management EM-803',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Management EM-803',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 13260,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Systems Operation EO-603',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Systems Operation EO-603',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 13261,
-				'itemName' => 'Inherent Implants \'Squire\' Engineering EG-603',
+				'itemName' => 'Inherent Implants \'Squire\' Power Grid Management EG-603',
 				'categoryID' => 20,
 			),
 			array(
@@ -18978,7 +18528,7 @@ class Items
 			),
 			array(
 				'itemID' => 13265,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Emission Systems ES-703',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Emission Systems ES-703',
 				'categoryID' => 20,
 			),
 			array(
@@ -22892,11 +22442,6 @@ class Items
 				'categoryID' => 7,
 			),
 			array(
-				'itemID' => 15425,
-				'itemName' => 'Naiyon\'s Modified Co-Processor',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 15437,
 				'itemName' => 'Makur\'s Modified Capacitor Power Relay',
 				'categoryID' => 7,
@@ -24948,7 +24493,7 @@ class Items
 			),
 			array(
 				'itemID' => 16029,
-				'itemName' => '800mm Repeating Artillery II Blueprint',
+				'itemName' => '800mm Repeating Cannon II Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -25218,7 +24763,7 @@ class Items
 			),
 			array(
 				'itemID' => 16216,
-				'itemName' => 'Mobile Laboratory',
+				'itemName' => 'Research Laboratory',
 				'categoryID' => 23,
 			),
 			array(
@@ -26018,22 +25563,7 @@ class Items
 			),
 			array(
 				'itemID' => 16537,
-				'itemName' => 'Micro B66 Core Augmentation',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 16539,
-				'itemName' => 'Micro B88 Core Augmentation',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 16541,
-				'itemName' => 'Micro K-Exhaust Core Augmentation',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 16543,
-				'itemName' => 'Micro \'Vigor\' Core Augmentation',
+				'itemName' => 'Compact Micro Auxiliary Power Core',
 				'categoryID' => 7,
 			),
 			array(
@@ -31288,7 +30818,7 @@ class Items
 			),
 			array(
 				'itemID' => 19470,
-				'itemName' => 'Intensive Refining Array',
+				'itemName' => 'Intensive Reprocessing Array',
 				'categoryID' => 23,
 			),
 			array(
@@ -31303,37 +30833,37 @@ class Items
 			),
 			array(
 				'itemID' => 19534,
-				'itemName' => 'Talisman Alpha',
+				'itemName' => 'High-grade Talisman Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19535,
-				'itemName' => 'Talisman Beta',
+				'itemName' => 'High-grade Talisman Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19536,
-				'itemName' => 'Talisman Gamma',
+				'itemName' => 'High-grade Talisman Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19537,
-				'itemName' => 'Talisman Delta',
+				'itemName' => 'High-grade Talisman Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19538,
-				'itemName' => 'Talisman Epsilon',
+				'itemName' => 'High-grade Talisman Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19539,
-				'itemName' => 'Talisman Omega',
+				'itemName' => 'High-grade Talisman Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19540,
-				'itemName' => 'Snake Alpha',
+				'itemName' => 'High-grade Snake Alpha',
 				'categoryID' => 20,
 			),
 			array(
@@ -31358,27 +30888,27 @@ class Items
 			),
 			array(
 				'itemID' => 19551,
-				'itemName' => 'Snake Beta',
+				'itemName' => 'High-grade Snake Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19553,
-				'itemName' => 'Snake Gamma',
+				'itemName' => 'High-grade Snake Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19554,
-				'itemName' => 'Snake Delta',
+				'itemName' => 'High-grade Snake Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19555,
-				'itemName' => 'Snake Epsilon',
+				'itemName' => 'High-grade Snake Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 19556,
-				'itemName' => 'Snake Omega',
+				'itemName' => 'High-grade Snake Omega',
 				'categoryID' => 20,
 			),
 			array(
@@ -32078,7 +31608,7 @@ class Items
 			),
 			array(
 				'itemID' => 20121,
-				'itemName' => 'Crystal Alpha',
+				'itemName' => 'High-grade Crystal Alpha',
 				'categoryID' => 20,
 			),
 			array(
@@ -32103,27 +31633,27 @@ class Items
 			),
 			array(
 				'itemID' => 20157,
-				'itemName' => 'Crystal Beta',
+				'itemName' => 'High-grade Crystal Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20158,
-				'itemName' => 'Crystal Gamma',
+				'itemName' => 'High-grade Crystal Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20159,
-				'itemName' => 'Crystal Delta',
+				'itemName' => 'High-grade Crystal Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20160,
-				'itemName' => 'Crystal Epsilon',
+				'itemName' => 'High-grade Crystal Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20161,
-				'itemName' => 'Crystal Omega',
+				'itemName' => 'High-grade Crystal Omega',
 				'categoryID' => 20,
 			),
 			array(
@@ -32658,7 +32188,7 @@ class Items
 			),
 			array(
 				'itemID' => 20453,
-				'itemName' => '6x2500mm Repeating Artillery I Blueprint',
+				'itemName' => '6x2500mm Repeating Cannon I Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -32728,62 +32258,62 @@ class Items
 			),
 			array(
 				'itemID' => 20498,
-				'itemName' => 'Halo Alpha',
+				'itemName' => 'High-grade Halo Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20499,
-				'itemName' => 'Slave Alpha',
+				'itemName' => 'High-grade Slave Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20500,
-				'itemName' => 'Halo Beta',
+				'itemName' => 'High-grade Halo Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20501,
-				'itemName' => 'Slave Beta',
+				'itemName' => 'High-grade Slave Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20502,
-				'itemName' => 'Halo Delta',
+				'itemName' => 'High-grade Halo Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20503,
-				'itemName' => 'Slave Delta',
+				'itemName' => 'High-grade Slave Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20504,
-				'itemName' => 'Halo Epsilon',
+				'itemName' => 'High-grade Halo Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20505,
-				'itemName' => 'Slave Epsilon',
+				'itemName' => 'High-grade Slave Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20506,
-				'itemName' => 'Halo Gamma',
+				'itemName' => 'High-grade Halo Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20507,
-				'itemName' => 'Slave Gamma',
+				'itemName' => 'High-grade Slave Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20508,
-				'itemName' => 'Halo Omega',
+				'itemName' => 'High-grade Halo Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 20509,
-				'itemName' => 'Slave Omega',
+				'itemName' => 'High-grade Slave Omega',
 				'categoryID' => 20,
 			),
 			array(
@@ -35163,52 +34693,52 @@ class Items
 			),
 			array(
 				'itemID' => 21491,
-				'itemName' => 'Synthetic Hull Conversion Overdrive Injector I',
+				'itemName' => 'Synthetic Hull Conversion Overdrive Injector',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 21492,
-				'itemName' => 'Synthetic Hull Conversion Overdrive Injector I Blueprint',
+				'itemName' => 'Synthetic Hull Conversion Overdrive Injector Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 21493,
-				'itemName' => 'Limited Expanded \'Archiver\' Cargo I',
+				'itemName' => 'Limited Expanded \'Archiver\' Cargo',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 21494,
-				'itemName' => 'Limited Expanded \'Archiver\' Cargo I Blueprint',
+				'itemName' => 'Limited Expanded \'Archiver\' Cargo Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 21496,
-				'itemName' => 'Synthetic Hull Conversion Reinforced Bulkheads I',
+				'itemName' => 'Synthetic Hull Conversion Reinforced Bulkheads',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 21497,
-				'itemName' => 'Synthetic Hull Conversion Reinforced Bulkheads I Blueprint',
+				'itemName' => 'Synthetic Hull Conversion Reinforced Bulkheads Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 21498,
-				'itemName' => 'Synthetic Hull Conversion Inertia Stabilizers I',
+				'itemName' => 'Synthetic Hull Conversion Inertia Stabilizers',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 21499,
-				'itemName' => 'Synthetic Hull Conversion Inertia Stabilizers I Blueprint',
+				'itemName' => 'Synthetic Hull Conversion Inertia Stabilizers Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 21500,
-				'itemName' => 'Synthetic Hull Conversion Nanofiber Structure I',
+				'itemName' => 'Synthetic Hull Conversion Nanofiber Structure',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 21501,
-				'itemName' => 'Synthetic Hull Conversion Nanofiber Structure I Blueprint',
+				'itemName' => 'Synthetic Hull Conversion Nanofiber Structure Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -35298,12 +34828,12 @@ class Items
 			),
 			array(
 				'itemID' => 21523,
-				'itemName' => 'LADAR Firewall',
+				'itemName' => 'Ladar Firewall',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 21524,
-				'itemName' => 'LADAR Firewall Blueprint',
+				'itemName' => 'Ladar Firewall Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -35468,7 +34998,7 @@ class Items
 			),
 			array(
 				'itemID' => 21558,
-				'itemName' => '800mm Heavy \'Jolt\' Repeating Artillery I Blueprint',
+				'itemName' => '800mm Heavy \'Jolt\' Repeating Cannon I Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -36628,152 +36158,152 @@ class Items
 			),
 			array(
 				'itemID' => 22107,
-				'itemName' => 'Low-grade Crystal Alpha',
+				'itemName' => 'Mid-grade Crystal Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22108,
-				'itemName' => 'Low-grade Crystal Beta',
+				'itemName' => 'Mid-grade Crystal Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22109,
-				'itemName' => 'Low-grade Crystal Delta',
+				'itemName' => 'Mid-grade Crystal Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22110,
-				'itemName' => 'Low-grade Crystal Epsilon',
+				'itemName' => 'Mid-grade Crystal Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22111,
-				'itemName' => 'Low-grade Crystal Gamma',
+				'itemName' => 'Mid-grade Crystal Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22112,
-				'itemName' => 'Low-grade Crystal Omega',
+				'itemName' => 'Mid-grade Crystal Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22113,
-				'itemName' => 'Low-grade Halo Alpha',
+				'itemName' => 'Mid-grade Halo Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22114,
-				'itemName' => 'Low-grade Halo Beta',
+				'itemName' => 'Mid-grade Halo Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22115,
-				'itemName' => 'Low-grade Halo Delta',
+				'itemName' => 'Mid-grade Halo Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22116,
-				'itemName' => 'Low-grade Halo Epsilon',
+				'itemName' => 'Mid-grade Halo Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22117,
-				'itemName' => 'Low-grade Halo Gamma',
+				'itemName' => 'Mid-grade Halo Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22118,
-				'itemName' => 'Low-grade Halo Omega',
+				'itemName' => 'Mid-grade Halo Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22119,
-				'itemName' => 'Low-grade Slave Alpha',
+				'itemName' => 'Mid-grade Slave Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22120,
-				'itemName' => 'Low-grade Slave Beta',
+				'itemName' => 'Mid-grade Slave Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22121,
-				'itemName' => 'Low-grade Slave Delta',
+				'itemName' => 'Mid-grade Slave Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22122,
-				'itemName' => 'Low-grade Slave Epsilon',
+				'itemName' => 'Mid-grade Slave Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22123,
-				'itemName' => 'Low-grade Slave Gamma',
+				'itemName' => 'Mid-grade Slave Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22124,
-				'itemName' => 'Low-grade Slave Omega',
+				'itemName' => 'Mid-grade Slave Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22125,
-				'itemName' => 'Low-grade Snake Alpha',
+				'itemName' => 'Mid-grade Snake Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22126,
-				'itemName' => 'Low-grade Snake Beta',
+				'itemName' => 'Mid-grade Snake Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22127,
-				'itemName' => 'Low-grade Snake Delta',
+				'itemName' => 'Mid-grade Snake Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22128,
-				'itemName' => 'Low-grade Snake Epsilon',
+				'itemName' => 'Mid-grade Snake Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22129,
-				'itemName' => 'Low-grade Snake Gamma',
+				'itemName' => 'Mid-grade Snake Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22130,
-				'itemName' => 'Low-grade Snake Omega',
+				'itemName' => 'Mid-grade Snake Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22131,
-				'itemName' => 'Low-grade Talisman Alpha',
+				'itemName' => 'Mid-grade Talisman Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22133,
-				'itemName' => 'Low-grade Talisman Beta',
+				'itemName' => 'Mid-grade Talisman Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22134,
-				'itemName' => 'Low-grade Talisman Delta',
+				'itemName' => 'Mid-grade Talisman Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22135,
-				'itemName' => 'Low-grade Talisman Epsilon',
+				'itemName' => 'Mid-grade Talisman Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22136,
-				'itemName' => 'Low-grade Talisman Gamma',
+				'itemName' => 'Mid-grade Talisman Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 22137,
-				'itemName' => 'Low-grade Talisman Omega',
+				'itemName' => 'Mid-grade Talisman Omega',
 				'categoryID' => 20,
 			),
 			array(
@@ -37532,43 +37062,33 @@ class Items
 				'categoryID' => 16,
 			),
 			array(
-				'itemID' => 22609,
-				'itemName' => 'Erin Mining Laser Upgrade',
-				'categoryID' => 7,
-			),
-			array(
 				'itemID' => 22611,
-				'itemName' => 'Elara Mining Laser Upgrade',
+				'itemName' => 'Elara Restrained Mining Laser Upgrade',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 22613,
-				'itemName' => 'Carpo Mining Laser Upgrade',
+				'itemName' => '\'Carpo\' Mining Laser Upgrade',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 22615,
-				'itemName' => 'Aoede Mining Laser Upgrade',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 22617,
-				'itemName' => 'Crisium Ice Harvester Upgrade',
+				'itemName' => '\'Aoede\' Mining Laser Upgrade',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 22619,
-				'itemName' => 'Frigoris Ice Harvester Upgrade',
+				'itemName' => 'Frigoris Restrained Ice Harvester Upgrade',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 22621,
-				'itemName' => 'Anguis Ice Harvester Upgrade',
+				'itemName' => '\'Anguis\' Ice Harvester Upgrade',
 				'categoryID' => 7,
 			),
 			array(
 				'itemID' => 22623,
-				'itemName' => 'Ingenii Ice Harvester Upgrade',
+				'itemName' => '\'Ingenii\' Ice Harvester Upgrade',
 				'categoryID' => 7,
 			),
 			array(
@@ -39183,7 +38703,7 @@ class Items
 			),
 			array(
 				'itemID' => 23566,
-				'itemName' => 'Electronic Warfare Drone Interfacing',
+				'itemName' => 'Advanced Drone Avionics',
 				'categoryID' => 16,
 			),
 			array(
@@ -40263,7 +39783,7 @@ class Items
 			),
 			array(
 				'itemID' => 24241,
-				'itemName' => 'Combat Drone Operation',
+				'itemName' => 'Light Drone Operation',
 				'categoryID' => 16,
 			),
 			array(
@@ -41053,7 +40573,7 @@ class Items
 			),
 			array(
 				'itemID' => 24575,
-				'itemName' => 'Capital Ship Assembly Array',
+				'itemName' => 'Supercapital Ship Assembly Array',
 				'categoryID' => 23,
 			),
 			array(
@@ -41223,7 +40743,7 @@ class Items
 			),
 			array(
 				'itemID' => 24656,
-				'itemName' => 'X-Large Ship Assembly Array',
+				'itemName' => 'Capital Ship Assembly Array',
 				'categoryID' => 23,
 			),
 			array(
@@ -42063,12 +41583,12 @@ class Items
 			),
 			array(
 				'itemID' => 25545,
-				'itemName' => 'Eifyr and Co. \'Alchemist\' Nanite Control NC-903',
+				'itemName' => 'Eifyr and Co. \'Alchemist\' Neurotoxin Control NC-903',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 25546,
-				'itemName' => 'Eifyr and Co. \'Alchemist\' Nanite Control NC-905',
+				'itemName' => 'Eifyr and Co. \'Alchemist\' Neurotoxin Control NC-905',
 				'categoryID' => 20,
 			),
 			array(
@@ -44933,32 +44453,32 @@ class Items
 			),
 			array(
 				'itemID' => 27116,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Management EM-805',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Management EM-805',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 27117,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Management EM-801',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Management EM-801',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 27118,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Systems Operation EO-605',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Systems Operation EO-605',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 27119,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Systems Operation EO-601',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Systems Operation EO-601',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 27120,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Emission Systems ES-701',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Emission Systems ES-701',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 27121,
-				'itemName' => 'Inherent Implants \'Squire\' Energy Emission Systems ES-705',
+				'itemName' => 'Inherent Implants \'Squire\' Capacitor Emission Systems ES-705',
 				'categoryID' => 20,
 			),
 			array(
@@ -44983,12 +44503,12 @@ class Items
 			),
 			array(
 				'itemID' => 27126,
-				'itemName' => 'Inherent Implants \'Squire\' Engineering EG-605',
+				'itemName' => 'Inherent Implants \'Squire\' Power Grid Management EG-605',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 27127,
-				'itemName' => 'Inherent Implants \'Squire\' Engineering EG-601',
+				'itemName' => 'Inherent Implants \'Squire\' Power Grid Management EG-601',
 				'categoryID' => 20,
 			),
 			array(
@@ -45013,12 +44533,12 @@ class Items
 			),
 			array(
 				'itemID' => 27142,
-				'itemName' => 'Zainou \'Gypsy\' Electronics EE-605',
+				'itemName' => 'Zainou \'Gypsy\' CPU Management EE-605',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 27143,
-				'itemName' => 'Zainou \'Gypsy\' Electronics EE-601',
+				'itemName' => 'Zainou \'Gypsy\' CPU Management EE-601',
 				'categoryID' => 20,
 			),
 			array(
@@ -45053,7 +44573,7 @@ class Items
 			),
 			array(
 				'itemID' => 27169,
-				'itemName' => 'Zainou \'Beancounter\' Refining RX-802',
+				'itemName' => 'Zainou \'Beancounter\' Reprocessing RX-802',
 				'categoryID' => 20,
 			),
 			array(
@@ -45068,12 +44588,12 @@ class Items
 			),
 			array(
 				'itemID' => 27174,
-				'itemName' => 'Zainou \'Beancounter\' Refining RX-804',
+				'itemName' => 'Zainou \'Beancounter\' Reprocessing RX-804',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 27175,
-				'itemName' => 'Zainou \'Beancounter\' Refining RX-801',
+				'itemName' => 'Zainou \'Beancounter\' Reprocessing RX-801',
 				'categoryID' => 20,
 			),
 			array(
@@ -47778,7 +47298,7 @@ class Items
 			),
 			array(
 				'itemID' => 28351,
-				'itemName' => 'Advanced Mobile Laboratory',
+				'itemName' => 'Design Laboratory',
 				'categoryID' => 23,
 			),
 			array(
@@ -47837,11 +47357,6 @@ class Items
 				'categoryID' => 25,
 			),
 			array(
-				'itemID' => 28368,
-				'itemName' => 'Compressed Arkonor Blueprint',
-				'categoryID' => 9,
-			),
-			array(
 				'itemID' => 28374,
 				'itemName' => 'Capital Industrial Ships',
 				'categoryID' => 16,
@@ -47885,11 +47400,6 @@ class Items
 				'itemID' => 28385,
 				'itemName' => 'Compressed Crimson Arkonor',
 				'categoryID' => 25,
-			),
-			array(
-				'itemID' => 28386,
-				'itemName' => 'Compressed Crimson Arkonor Blueprint',
-				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 28387,
@@ -48180,296 +47690,6 @@ class Items
 				'itemID' => 28444,
 				'itemName' => 'Compressed White Glaze',
 				'categoryID' => 25,
-			),
-			array(
-				'itemID' => 28448,
-				'itemName' => 'Compressed Prime Arkonor Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28449,
-				'itemName' => 'Compressed Bistot Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28450,
-				'itemName' => 'Compressed Monoclinic Bistot Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28451,
-				'itemName' => 'Compressed Triclinic Bistot Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28452,
-				'itemName' => 'Compressed Crokite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28453,
-				'itemName' => 'Compressed Crystalline Crokite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28454,
-				'itemName' => 'Compressed Sharp Crokite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28455,
-				'itemName' => 'Compressed Dark Ochre Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28456,
-				'itemName' => 'Compressed Obsidian Ochre Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28457,
-				'itemName' => 'Compressed Onyx Ochre Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28458,
-				'itemName' => 'Compressed Gneiss Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28459,
-				'itemName' => 'Compressed Iridescent Gneiss Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28460,
-				'itemName' => 'Compressed Prismatic Gneiss Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28461,
-				'itemName' => 'Compressed Hedbergite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28462,
-				'itemName' => 'Compressed Glazed Hedbergite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28463,
-				'itemName' => 'Compressed Vitric Hedbergite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28464,
-				'itemName' => 'Compressed Hemorphite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28465,
-				'itemName' => 'Compressed Radiant Hemorphite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28466,
-				'itemName' => 'Compressed Vivid Hemorphite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28467,
-				'itemName' => 'Compressed Jaspet Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28468,
-				'itemName' => 'Compressed Pristine Jaspet Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28469,
-				'itemName' => 'Compressed Pure Jaspet Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28470,
-				'itemName' => 'Compressed Kernite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28471,
-				'itemName' => 'Compressed Fiery Kernite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28472,
-				'itemName' => 'Compressed Luminous Kernite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28473,
-				'itemName' => 'Compressed Magma Mercoxit Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28474,
-				'itemName' => 'Compressed Mercoxit Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28475,
-				'itemName' => 'Compressed Vitreous Mercoxit Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28476,
-				'itemName' => 'Compressed Omber Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28477,
-				'itemName' => 'Compressed Golden Omber Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28478,
-				'itemName' => 'Compressed Silvery Omber Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28479,
-				'itemName' => 'Compressed Azure Plagioclase Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28480,
-				'itemName' => 'Compressed Plagioclase Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28481,
-				'itemName' => 'Compressed Rich Plagioclase Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28482,
-				'itemName' => 'Compressed Pyroxeres Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28483,
-				'itemName' => 'Compressed Solid Pyroxeres Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28484,
-				'itemName' => 'Compressed Viscous Pyroxeres Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28485,
-				'itemName' => 'Compressed Condensed Scordite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28486,
-				'itemName' => 'Compressed Massive Scordite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28487,
-				'itemName' => 'Compressed Scordite Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28488,
-				'itemName' => 'Compressed Bright Spodumain Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28489,
-				'itemName' => 'Compressed Gleaming Spodumain Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28490,
-				'itemName' => 'Compressed Spodumain Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28491,
-				'itemName' => 'Compressed Concentrated Veldspar Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28492,
-				'itemName' => 'Compressed Dense Veldspar Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28493,
-				'itemName' => 'Compressed Veldspar Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28494,
-				'itemName' => 'Compressed Blue Ice Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28495,
-				'itemName' => 'Compressed Clear Icicle Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28496,
-				'itemName' => 'Compressed Dark Glitter Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28497,
-				'itemName' => 'Compressed Enriched Clear Icicle Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28498,
-				'itemName' => 'Compressed Gelidus Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28499,
-				'itemName' => 'Compressed Glacial Mass Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28500,
-				'itemName' => 'Compressed Glare Crust Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28501,
-				'itemName' => 'Compressed Krystallos Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28502,
-				'itemName' => 'Compressed Pristine White Glaze Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28503,
-				'itemName' => 'Compressed Smooth Glacial Mass Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28504,
-				'itemName' => 'Compressed Thick Blue Ice Blueprint',
-				'categoryID' => 9,
-			),
-			array(
-				'itemID' => 28505,
-				'itemName' => 'Compressed White Glaze Blueprint',
-				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 28511,
@@ -48783,7 +48003,7 @@ class Items
 			),
 			array(
 				'itemID' => 28605,
-				'itemName' => 'Advanced Mobile Laboratory Blueprint',
+				'itemName' => 'Design Laboratory Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -49243,152 +48463,152 @@ class Items
 			),
 			array(
 				'itemID' => 28790,
-				'itemName' => 'Low-grade Centurion Alpha',
+				'itemName' => 'Mid-grade Centurion Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28791,
-				'itemName' => 'Low-grade Centurion Beta',
+				'itemName' => 'Mid-grade Centurion Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28792,
-				'itemName' => 'Low-grade Centurion Delta',
+				'itemName' => 'Mid-grade Centurion Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28793,
-				'itemName' => 'Low-grade Centurion Epsilon',
+				'itemName' => 'Mid-grade Centurion Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28794,
-				'itemName' => 'Low-grade Centurion Gamma',
+				'itemName' => 'Mid-grade Centurion Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28795,
-				'itemName' => 'Low-grade Centurion Omega',
+				'itemName' => 'Mid-grade Centurion Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28796,
-				'itemName' => 'Low-grade Nomad Alpha',
+				'itemName' => 'Mid-grade Nomad Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28797,
-				'itemName' => 'Low-grade Nomad Beta',
+				'itemName' => 'Mid-grade Nomad Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28798,
-				'itemName' => 'Low-grade Nomad Delta',
+				'itemName' => 'Mid-grade Nomad Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28799,
-				'itemName' => 'Low-grade Nomad Epsilon',
+				'itemName' => 'Mid-grade Nomad Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28800,
-				'itemName' => 'Low-grade Nomad Gamma',
+				'itemName' => 'Mid-grade Nomad Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28801,
-				'itemName' => 'Low-grade Nomad Omega',
+				'itemName' => 'Mid-grade Nomad Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28802,
-				'itemName' => 'Low-grade Harvest Alpha',
+				'itemName' => 'Mid-grade Harvest Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28803,
-				'itemName' => 'Low-grade Harvest Beta',
+				'itemName' => 'Mid-grade Harvest Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28804,
-				'itemName' => 'Low-grade Harvest Delta',
+				'itemName' => 'Mid-grade Harvest Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28805,
-				'itemName' => 'Low-grade Harvest Epsilon',
+				'itemName' => 'Mid-grade Harvest Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28806,
-				'itemName' => 'Low-grade Harvest Gamma',
+				'itemName' => 'Mid-grade Harvest Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28807,
-				'itemName' => 'Low-grade Harvest Omega',
+				'itemName' => 'Mid-grade Harvest Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28808,
-				'itemName' => 'Low-grade Virtue Alpha',
+				'itemName' => 'Mid-grade Virtue Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28809,
-				'itemName' => 'Low-grade Virtue Beta',
+				'itemName' => 'Mid-grade Virtue Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28810,
-				'itemName' => 'Low-grade Virtue Delta',
+				'itemName' => 'Mid-grade Virtue Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28811,
-				'itemName' => 'Low-grade Virtue Epsilon',
+				'itemName' => 'Mid-grade Virtue Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28812,
-				'itemName' => 'Low-grade Virtue Gamma',
+				'itemName' => 'Mid-grade Virtue Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28813,
-				'itemName' => 'Low-grade Virtue Omega',
+				'itemName' => 'Mid-grade Virtue Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28814,
-				'itemName' => 'Low-grade Edge Alpha',
+				'itemName' => 'Mid-grade Edge Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28815,
-				'itemName' => 'Low-grade Edge Beta',
+				'itemName' => 'Mid-grade Edge Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28816,
-				'itemName' => 'Low-grade Edge Delta',
+				'itemName' => 'Mid-grade Edge Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28817,
-				'itemName' => 'Low-grade Edge Epsilon',
+				'itemName' => 'Mid-grade Edge Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28818,
-				'itemName' => 'Low-grade Edge Gamma',
+				'itemName' => 'Mid-grade Edge Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 28819,
-				'itemName' => 'Low-grade Edge Omega',
+				'itemName' => 'Mid-grade Edge Omega',
 				'categoryID' => 20,
 			),
 			array(
@@ -51653,27 +50873,27 @@ class Items
 			),
 			array(
 				'itemID' => 30382,
-				'itemName' => 'Amarr Hybrid Tech Decryptor',
+				'itemName' => 'Amarr Subsystems Data Interface',
 				'categoryID' => 35,
 			),
 			array(
 				'itemID' => 30383,
-				'itemName' => 'Caldari Hybrid Tech Decryptor',
+				'itemName' => 'Caldari Subsystems Data Interface',
 				'categoryID' => 35,
 			),
 			array(
 				'itemID' => 30384,
-				'itemName' => 'Minmatar Hybrid Tech Decryptor',
+				'itemName' => 'Minmatar Subsystems Data Interface',
 				'categoryID' => 35,
 			),
 			array(
 				'itemID' => 30385,
-				'itemName' => 'Gallente Hybrid Tech Decryptor',
+				'itemName' => 'Gallente Subsystems Data Interface',
 				'categoryID' => 35,
 			),
 			array(
 				'itemID' => 30386,
-				'itemName' => 'R.A.M.- Hybrid Technology',
+				'itemName' => 'R.Db.- Hybrid Technology',
 				'categoryID' => 17,
 			),
 			array(
@@ -56633,32 +55853,32 @@ class Items
 			),
 			array(
 				'itemID' => 31954,
-				'itemName' => 'Grail Alpha',
+				'itemName' => 'High-grade Grail Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31955,
-				'itemName' => 'Grail Beta',
+				'itemName' => 'High-grade Grail Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31956,
-				'itemName' => 'Grail Delta',
+				'itemName' => 'High-grade Grail Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31957,
-				'itemName' => 'Grail Epsilon',
+				'itemName' => 'High-grade Grail Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31958,
-				'itemName' => 'Grail Gamma',
+				'itemName' => 'High-grade Grail Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31959,
-				'itemName' => 'Grail Omega',
+				'itemName' => 'High-grade Grail Omega',
 				'categoryID' => 20,
 			),
 			array(
@@ -56668,92 +55888,92 @@ class Items
 			),
 			array(
 				'itemID' => 31962,
-				'itemName' => 'Talon Alpha',
+				'itemName' => 'High-grade Talon Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31963,
-				'itemName' => 'Talon Beta',
+				'itemName' => 'High-grade Talon Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31964,
-				'itemName' => 'Talon Delta',
+				'itemName' => 'High-grade Talon Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31965,
-				'itemName' => 'Talon Epsilon',
+				'itemName' => 'High-grade Talon Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31966,
-				'itemName' => 'Talon Gamma',
+				'itemName' => 'High-grade Talon Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31967,
-				'itemName' => 'Talon Omega',
+				'itemName' => 'High-grade Talon Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31968,
-				'itemName' => 'Spur Alpha',
+				'itemName' => 'High-grade Spur Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31969,
-				'itemName' => 'Spur Beta',
+				'itemName' => 'High-grade Spur Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31970,
-				'itemName' => 'Spur Delta',
+				'itemName' => 'High-grade Spur Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31971,
-				'itemName' => 'Spur Epsilon',
+				'itemName' => 'High-grade Spur Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31972,
-				'itemName' => 'Spur Gamma',
+				'itemName' => 'High-grade Spur Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31973,
-				'itemName' => 'Spur Omega',
+				'itemName' => 'High-grade Spur Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31974,
-				'itemName' => 'Jackal Alpha',
+				'itemName' => 'High-grade Jackal Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31975,
-				'itemName' => 'Jackal Beta',
+				'itemName' => 'High-grade Jackal Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31976,
-				'itemName' => 'Jackal Delta',
+				'itemName' => 'High-grade Jackal Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31977,
-				'itemName' => 'Jackal Epsilon',
+				'itemName' => 'High-grade Jackal Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31978,
-				'itemName' => 'Jackal Gamma',
+				'itemName' => 'High-grade Jackal Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 31979,
-				'itemName' => 'Jackal Omega',
+				'itemName' => 'High-grade Jackal Omega',
 				'categoryID' => 20,
 			),
 			array(
@@ -57358,7 +56578,7 @@ class Items
 			),
 			array(
 				'itemID' => 32245,
-				'itemName' => 'Hyasyoda Mobile Laboratory',
+				'itemName' => 'Hyasyoda Research Laboratory',
 				'categoryID' => 23,
 			),
 			array(
@@ -57669,16 +56889,6 @@ class Items
 			array(
 				'itemID' => 32414,
 				'itemName' => 'Domination Target Painter',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 32416,
-				'itemName' => 'Dark Blood Tracking Disruptor',
-				'categoryID' => 7,
-			),
-			array(
-				'itemID' => 32417,
-				'itemName' => 'True Sansha Tracking Disruptor',
 				'categoryID' => 7,
 			),
 			array(
@@ -58853,12 +58063,12 @@ class Items
 			),
 			array(
 				'itemID' => 33107,
-				'itemName' => 'Men\'s \'Quafe\' T-shirt YC115',
+				'itemName' => 'Men\'s \'Quafe\' T-shirt YC 115',
 				'categoryID' => 30,
 			),
 			array(
 				'itemID' => 33109,
-				'itemName' => 'Women\'s \'Quafe\' T-shirt YC115',
+				'itemName' => 'Women\'s \'Quafe\' T-shirt YC 115',
 				'categoryID' => 30,
 			),
 			array(
@@ -59933,7 +59143,7 @@ class Items
 			),
 			array(
 				'itemID' => 33516,
-				'itemName' => 'Ascendancy Alpha',
+				'itemName' => 'High-grade Ascendancy Alpha',
 				'categoryID' => 20,
 			),
 			array(
@@ -59973,32 +59183,32 @@ class Items
 			),
 			array(
 				'itemID' => 33525,
-				'itemName' => 'Ascendancy Beta',
+				'itemName' => 'High-grade Ascendancy Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33526,
-				'itemName' => 'Ascendancy Delta',
+				'itemName' => 'High-grade Ascendancy Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33527,
-				'itemName' => 'Ascendancy Epsilon',
+				'itemName' => 'High-grade Ascendancy Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33528,
-				'itemName' => 'Ascendancy Gamma',
+				'itemName' => 'High-grade Ascendancy Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33529,
-				'itemName' => 'Ascendancy Omega',
+				'itemName' => 'High-grade Ascendancy Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33536,
-				'itemName' => 'Ascendancy Alpha Blueprint',
+				'itemName' => 'High-grade Ascendancy Alpha Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -60008,27 +59218,27 @@ class Items
 			),
 			array(
 				'itemID' => 33543,
-				'itemName' => 'Ascendancy Beta Blueprint',
+				'itemName' => 'High-grade Ascendancy Beta Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33545,
-				'itemName' => 'Ascendancy Gamma Blueprint',
+				'itemName' => 'High-grade Ascendancy Gamma Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33546,
-				'itemName' => 'Ascendancy Epsilon Blueprint',
+				'itemName' => 'High-grade Ascendancy Epsilon Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33547,
-				'itemName' => 'Ascendancy Delta Blueprint',
+				'itemName' => 'High-grade Ascendancy Delta Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33548,
-				'itemName' => 'Ascendancy Omega Blueprint',
+				'itemName' => 'High-grade Ascendancy Omega Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -60063,62 +59273,62 @@ class Items
 			),
 			array(
 				'itemID' => 33555,
-				'itemName' => 'Low-grade Ascendancy Alpha',
+				'itemName' => 'Mid-grade Ascendancy Alpha',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33556,
-				'itemName' => 'Low-grade Ascendancy Alpha Blueprint',
+				'itemName' => 'Mid-grade Ascendancy Alpha Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33557,
-				'itemName' => 'Low-grade Ascendancy Beta',
+				'itemName' => 'Mid-grade Ascendancy Beta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33558,
-				'itemName' => 'Low-grade Ascendancy Beta Blueprint',
+				'itemName' => 'Mid-grade Ascendancy Beta Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33559,
-				'itemName' => 'Low-grade Ascendancy Delta',
+				'itemName' => 'Mid-grade Ascendancy Delta',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33560,
-				'itemName' => 'Low-grade Ascendancy Delta Blueprint',
+				'itemName' => 'Mid-grade Ascendancy Delta Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33561,
-				'itemName' => 'Low-grade Ascendancy Epsilon',
+				'itemName' => 'Mid-grade Ascendancy Epsilon',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33562,
-				'itemName' => 'Low-grade Ascendancy Epsilon Blueprint',
+				'itemName' => 'Mid-grade Ascendancy Epsilon Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33563,
-				'itemName' => 'Low-grade Ascendancy Gamma',
+				'itemName' => 'Mid-grade Ascendancy Gamma',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33564,
-				'itemName' => 'Low-grade Ascendancy Gamma Blueprint',
+				'itemName' => 'Mid-grade Ascendancy Gamma Blueprint',
 				'categoryID' => 9,
 			),
 			array(
 				'itemID' => 33565,
-				'itemName' => 'Low-grade Ascendancy Omega',
+				'itemName' => 'Mid-grade Ascendancy Omega',
 				'categoryID' => 20,
 			),
 			array(
 				'itemID' => 33566,
-				'itemName' => 'Low-grade Ascendancy Omega Blueprint',
+				'itemName' => 'Mid-grade Ascendancy Omega Blueprint',
 				'categoryID' => 9,
 			),
 			array(
@@ -60305,6 +59515,2901 @@ class Items
 				'itemID' => 33612,
 				'itemName' => 'Caldari 1M Bounty Reimbursement Tag',
 				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 33618,
+				'itemName' => 'Rogue Drone 46-X Nexus Chip',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 33619,
+				'itemName' => 'Rogue Drone 43-X Nexus Chip',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 33620,
+				'itemName' => 'Rogue Drone 42-X Nexus Chip',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 33623,
+				'itemName' => 'Abaddon Tash-Murkon Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33624,
+				'itemName' => 'Abaddon Tash-Murkon Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33625,
+				'itemName' => 'Abaddon Kador Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33626,
+				'itemName' => 'Abaddon Kador Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33627,
+				'itemName' => 'Rokh Nugoeihuvi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33628,
+				'itemName' => 'Rokh Nugoeihuvi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33629,
+				'itemName' => 'Rokh Wiyrkomi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33630,
+				'itemName' => 'Rokh Wiyrkomi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33631,
+				'itemName' => 'Maelstrom Nefantar Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33632,
+				'itemName' => 'Maelstrom Nefantar Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33633,
+				'itemName' => 'Maelstrom Krusual Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33634,
+				'itemName' => 'Maelstrom Krusual Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33635,
+				'itemName' => 'Hyperion Aliastra Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33636,
+				'itemName' => 'Hyperion Aliastra Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33637,
+				'itemName' => 'Hyperion Inner Zone Shipping Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33638,
+				'itemName' => 'Hyperion Inner Zone Shipping Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33639,
+				'itemName' => 'Omen Kador Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33640,
+				'itemName' => 'Omen Kador Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33641,
+				'itemName' => 'Omen Tash-Murkon Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33642,
+				'itemName' => 'Omen Tash-Murkon Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33643,
+				'itemName' => 'Caracal Nugoeihuvi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33644,
+				'itemName' => 'Caracal Nugoeihuvi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33645,
+				'itemName' => 'Caracal Wiyrkomi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33646,
+				'itemName' => 'Caracal Wiyrkomi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33647,
+				'itemName' => 'Stabber Nefantar Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33648,
+				'itemName' => 'Stabber Nefantar Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33649,
+				'itemName' => 'Stabber Krusual Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33650,
+				'itemName' => 'Stabber Krusual Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33651,
+				'itemName' => 'Thorax Aliastra Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33652,
+				'itemName' => 'Thorax Aliastra Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33653,
+				'itemName' => 'Thorax Inner Zone Shipping Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33654,
+				'itemName' => 'Thorax Inner Zone Shipping Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33655,
+				'itemName' => 'Punisher Kador Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33656,
+				'itemName' => 'Punisher Kador Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33657,
+				'itemName' => 'Punisher Tash-Murkon Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33658,
+				'itemName' => 'Punisher Tash-Murkon Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33659,
+				'itemName' => 'Merlin Nugoeihuvi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33660,
+				'itemName' => 'Merlin Nugoeihuvi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33661,
+				'itemName' => 'Merlin Wiyrkomi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33662,
+				'itemName' => 'Merlin Wiyrkomi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33663,
+				'itemName' => 'Rifter Nefantar Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33664,
+				'itemName' => 'Rifter Nefantar Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33665,
+				'itemName' => 'Rifter Krusual Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33666,
+				'itemName' => 'Rifter Krusual Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33667,
+				'itemName' => 'Incursus Aliastra Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33668,
+				'itemName' => 'Incursus Aliastra Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33669,
+				'itemName' => 'Incursus Inner Zone Shipping Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33670,
+				'itemName' => 'Incursus Inner Zone Shipping Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33671,
+				'itemName' => 'Heavy Hull Maintenance Bot I',
+				'categoryID' => 18,
+			),
+			array(
+				'itemID' => 33672,
+				'itemName' => 'Heavy Hull Maintenance Bot I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33673,
+				'itemName' => 'Whiptail',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33674,
+				'itemName' => 'Whiptail Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33675,
+				'itemName' => 'Chameleon',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33676,
+				'itemName' => 'Chameleon Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33677,
+				'itemName' => 'Police Pursuit Comet',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33678,
+				'itemName' => 'Police Pursuit Comet Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33681,
+				'itemName' => 'Gecko',
+				'categoryID' => 18,
+			),
+			array(
+				'itemID' => 33682,
+				'itemName' => 'Gecko Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33683,
+				'itemName' => 'Mackinaw ORE Development Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33684,
+				'itemName' => 'Mackinaw ORE Development Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33685,
+				'itemName' => 'Orca ORE Development Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33686,
+				'itemName' => 'Orca ORE Development Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33687,
+				'itemName' => 'Rorqual ORE Development Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33688,
+				'itemName' => 'Rorqual ORE Development Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33689,
+				'itemName' => 'Iteron Inner Zone Shipping Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33690,
+				'itemName' => 'Iteron Inner Zone Shipping Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33691,
+				'itemName' => 'Tayra Wiyrkomi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33692,
+				'itemName' => 'Tayra Wiyrkomi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33693,
+				'itemName' => 'Mammoth Nefantar Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33694,
+				'itemName' => 'Mammoth Nefantar Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33695,
+				'itemName' => 'Bestower Tash-Murkon Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33696,
+				'itemName' => 'Bestower Tash-Murkon Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33697,
+				'itemName' => 'Prospect',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33698,
+				'itemName' => 'Prospect Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33699,
+				'itemName' => 'Medium Drone Operation',
+				'categoryID' => 16,
+			),
+			array(
+				'itemID' => 33700,
+				'itemName' => '\'Packrat\' Mobile Tractor Unit',
+				'categoryID' => 22,
+			),
+			array(
+				'itemID' => 33701,
+				'itemName' => '\'Packrat\' Mobile Tractor Unit Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33702,
+				'itemName' => '\'Magpie\' Mobile Tractor Unit',
+				'categoryID' => 22,
+			),
+			array(
+				'itemID' => 33703,
+				'itemName' => '\'Magpie\' Mobile Tractor Unit Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33704,
+				'itemName' => 'Medium Hull Maintenance Bot I',
+				'categoryID' => 18,
+			),
+			array(
+				'itemID' => 33705,
+				'itemName' => 'Medium Hull Maintenance Bot I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33706,
+				'itemName' => 'Light Hull Maintenance Bot I',
+				'categoryID' => 18,
+			),
+			array(
+				'itemID' => 33707,
+				'itemName' => 'Light Hull Maintenance Bot I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33708,
+				'itemName' => 'Heavy Hull Maintenance Bot II',
+				'categoryID' => 18,
+			),
+			array(
+				'itemID' => 33709,
+				'itemName' => 'Heavy Hull Maintenance Bot II Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33710,
+				'itemName' => 'Medium Hull Maintenance Bot II',
+				'categoryID' => 18,
+			),
+			array(
+				'itemID' => 33711,
+				'itemName' => 'Medium Hull Maintenance Bot II Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33712,
+				'itemName' => 'Light Hull Maintenance Bot II',
+				'categoryID' => 18,
+			),
+			array(
+				'itemID' => 33713,
+				'itemName' => 'Light Hull Maintenance Bot II Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33714,
+				'itemName' => 'Women\'s \'Mitral\' Boots (black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33715,
+				'itemName' => 'Women\'s \'Sanctity\' Dress (cream/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33716,
+				'itemName' => 'Women\'s \'Mitral\' Boots (bronze)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33717,
+				'itemName' => 'Women\'s \'Mitral\' Boots (cream)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33718,
+				'itemName' => 'Women\'s \'Mitral\' Boots (dark blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33719,
+				'itemName' => 'Women\'s \'Mitral\' Boots (dark red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33720,
+				'itemName' => 'Women\'s \'Corsair\' Heels (black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33721,
+				'itemName' => 'Women\'s \'Corsair\' Heels (blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33722,
+				'itemName' => 'Women\'s \'Corsair\' Heels (brown)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33723,
+				'itemName' => 'Women\'s \'Corsair\' Heels (beige)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33724,
+				'itemName' => 'Women\'s \'Corsair\' Heels (gray)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33725,
+				'itemName' => 'Women\'s \'Corsair\' Heels (red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33726,
+				'itemName' => 'Women\'s \'Sanctity\' Dress (black/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33727,
+				'itemName' => 'Women\'s \'Sanctity\' Dress (brown/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33728,
+				'itemName' => 'Women\'s \'Sanctity\' Dress (blue/silver)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33729,
+				'itemName' => 'Women\'s \'Sanctity\' Dress (dark green/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33730,
+				'itemName' => 'Women\'s \'Sanctity\' Dress (dark red/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33731,
+				'itemName' => 'Women\'s \'Sanctity\' Dress (green/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33732,
+				'itemName' => 'Women\'s \'Sanctity\' Dress (red/silver)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33733,
+				'itemName' => 'Women\'s \'Rocket\' Dress (glossy black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33734,
+				'itemName' => 'Women\'s \'Rocket\' Dress (black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33735,
+				'itemName' => 'Women\'s \'Rocket\' Dress (blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33736,
+				'itemName' => 'Women\'s \'Rocket\' Dress (copper)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33737,
+				'itemName' => 'Women\'s \'Rocket\' Dress (dark grey)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33738,
+				'itemName' => 'Women\'s \'Rocket\' Dress (metal) ',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33739,
+				'itemName' => 'Women\'s \'Rocket\' Dress (green)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33740,
+				'itemName' => 'Women\'s \'Rocket\' Dress (purple)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33741,
+				'itemName' => 'Women\'s \'Rocket\' Dress (red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33742,
+				'itemName' => 'Women\'s \'Rocket\' Dress (white)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33743,
+				'itemName' => 'Women\'s \'Rocket\' Dress (dark teal)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33744,
+				'itemName' => 'Women\'s \'Poise\' Pants (glossy black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33745,
+				'itemName' => 'Women\'s \'Poise\' Pants (black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33746,
+				'itemName' => 'Women\'s \'Poise\' Pants (beige swirl)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33747,
+				'itemName' => 'Women\'s \'Poise\' Pants (cream)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33748,
+				'itemName' => 'Women\'s \'Poise\' Pants (dark green)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33749,
+				'itemName' => 'Women\'s \'Poise\' Pants (dark swirl)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33750,
+				'itemName' => 'Women\'s \'Poise\' Pants (glossy bronze)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33751,
+				'itemName' => 'Women\'s \'Poise\' Pants (blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33752,
+				'itemName' => 'Women\'s \'Poise\' Pants (red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33753,
+				'itemName' => 'Women\'s \'Poise\' Pants (glossy red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33754,
+				'itemName' => 'Women\'s \'Strut\' Pants (black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33755,
+				'itemName' => 'Women\'s \'Strut\' Pants (blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33756,
+				'itemName' => 'Women\'s \'Strut\' Pants (camo)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33757,
+				'itemName' => 'Women\'s \'Strut\' Pants (matte gray)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33758,
+				'itemName' => 'Women\'s \'Strut\' Pants (orange)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33759,
+				'itemName' => 'Women\'s \'Strut\' Pants (red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33760,
+				'itemName' => 'Women\'s \'Strut\' Pants (red gloss)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33761,
+				'itemName' => 'Women\'s \'Strut\' Pants (yellow gloss)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33767,
+				'itemName' => 'Women\'s \'New Eden Open I\' T-shirt YC 114',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33768,
+				'itemName' => 'Women\'s \'New Eden Open II\' T-shirt YC 116',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33769,
+				'itemName' => 'Men\'s \'New Eden Open I\' T-shirt YC 114',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33770,
+				'itemName' => 'Men\'s \'New Eden Open II\' T-shirt YC 116',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33771,
+				'itemName' => 'Men\'s \'March\' Boots (White)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33772,
+				'itemName' => 'Men\'s \'March\' Boots (Graphite)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33773,
+				'itemName' => 'Men\'s \'March\' Boots (Brown)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33774,
+				'itemName' => 'Men\'s \'March\' Boots (Blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33775,
+				'itemName' => 'Men\'s \'March\' Boots (Black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33776,
+				'itemName' => 'Men\'s \'Ascend\' Boots (white/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33777,
+				'itemName' => 'Men\'s \'Ascend\' Boots (royal)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33778,
+				'itemName' => 'Men\'s \'Ascend\' Boots (grey/silver)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33779,
+				'itemName' => 'Men\'s \'Ascend\' Boots (maroon/black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33780,
+				'itemName' => 'Men\'s \'Ascend\' Boots (brown/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33781,
+				'itemName' => 'Men\'s \'Strider\' Pants (monochrome)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33782,
+				'itemName' => 'Men\'s \'Strider\' Pants (green camo)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33783,
+				'itemName' => 'Men\'s \'Strider\' Pants (graphite)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33784,
+				'itemName' => 'Men\'s \'Strider\' Pants (dark red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33785,
+				'itemName' => 'Men\'s \'Strider\' Pants (black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33786,
+				'itemName' => 'Men\'s \'Rider\' Pants (white gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33787,
+				'itemName' => 'Men\'s \'Rider\' Pants (royal gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33788,
+				'itemName' => 'Men\'s \'Rider\' Pants (red gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33789,
+				'itemName' => 'Men\'s \'Rider\' Pants (reflective blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33790,
+				'itemName' => 'Men\'s \'Rider\' Pants (black silver)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33791,
+				'itemName' => 'Men\'s \'Impact\' Jacket (monochrome)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33792,
+				'itemName' => 'Men\'s \'Impact\' Jacket (green camo)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33793,
+				'itemName' => 'Men\'s \'Impact\' Jacket (graphite)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33794,
+				'itemName' => 'Men\'s \'Impact\' Jacket (dark red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33795,
+				'itemName' => 'Men\'s \'Impact\' Jacket (reflective blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33796,
+				'itemName' => 'Men\'s \'Curate\' Coat (white gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33797,
+				'itemName' => 'Men\'s \'Curate\' Coat (royal gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33798,
+				'itemName' => 'Men\'s \'Curate\' Coat (red/gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33799,
+				'itemName' => 'Men\'s \'Curate\' Coat (dark bronze)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33800,
+				'itemName' => 'Men\'s \'Curate\' Coat (black/silver)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33803,
+				'itemName' => 'Men\'s \'Source\' Coat (black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33804,
+				'itemName' => 'Women\'s \'Source\' Coat (silver)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33807,
+				'itemName' => 'Cybernetic \'Source\' Subprocessor',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33808,
+				'itemName' => 'Neural \'Source\' Boost',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33809,
+				'itemName' => 'New Eden Source',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 33812,
+				'itemName' => 'Men\'s \'Quafe\' T-shirt YC 116',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33813,
+				'itemName' => 'Women\'s \'Quafe\' T-shirt YC 116',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33816,
+				'itemName' => 'Garmur',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33817,
+				'itemName' => 'Garmur Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33818,
+				'itemName' => 'Orthrus',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33819,
+				'itemName' => 'Orthrus Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33820,
+				'itemName' => 'Barghest',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33821,
+				'itemName' => 'Barghest Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33822,
+				'itemName' => 'Omnidirectional Tracking Enhancer I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33823,
+				'itemName' => 'Omnidirectional Tracking Enhancer I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33824,
+				'itemName' => 'Omnidirectional Tracking Enhancer II',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33825,
+				'itemName' => 'Omnidirectional Tracking Enhancer II Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33826,
+				'itemName' => 'Sentient Omnidirectional Tracking Link',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33828,
+				'itemName' => 'Sentient Omnidirectional Tracking Enhancer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33830,
+				'itemName' => 'Dread Guristas Omnidirectional Tracking Enhancer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33832,
+				'itemName' => 'Imperial Navy Omnidirectional Tracking Enhancer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33834,
+				'itemName' => 'Unit D-34343\'s Modified Omnidirectional Tracking Enhancer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33836,
+				'itemName' => 'Unit F-435454\'s Modified Omnidirectional Tracking Enhancer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33838,
+				'itemName' => 'Unit P-343554\'s Modified Omnidirectional Tracking Enhancer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33840,
+				'itemName' => 'Unit W-634\'s Modified Omnidirectional Tracking Enhancer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33842,
+				'itemName' => 'Federation Navy Drone Damage Amplifier',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33844,
+				'itemName' => 'Imperial Navy Drone Damage Amplifier',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33846,
+				'itemName' => 'Dread Guristas Drone Damage Amplifier',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33848,
+				'itemName' => 'Sentient Drone Damage Amplifier',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33850,
+				'itemName' => 'Federation Navy Drone Navigation Computer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33852,
+				'itemName' => 'Sentient Drone Navigation Computer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33856,
+				'itemName' => 'Expedition Frigates',
+				'categoryID' => 16,
+			),
+			array(
+				'itemID' => 33867,
+				'itemName' => 'Thukker Component Assembly Array',
+				'categoryID' => 23,
+			),
+			array(
+				'itemID' => 33868,
+				'itemName' => 'Thukker Component Assembly Array Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33869,
+				'itemName' => 'Brutix Serpentis Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33870,
+				'itemName' => 'Brutix Serpentis Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33871,
+				'itemName' => 'Cyclone Thukker Tribe Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33872,
+				'itemName' => 'Cyclone Thukker Tribe Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33873,
+				'itemName' => 'Ferox Guristas Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33874,
+				'itemName' => 'Ferox Guristas Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33875,
+				'itemName' => 'Prophecy Blood Raiders Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33876,
+				'itemName' => 'Prophecy Blood Raiders Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33877,
+				'itemName' => 'Catalyst Serpentis Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33878,
+				'itemName' => 'Catalyst Serpentis Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33879,
+				'itemName' => 'Coercer Blood Raiders Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33880,
+				'itemName' => 'Coercer Blood Raiders Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33881,
+				'itemName' => 'Cormorant Guristas Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33882,
+				'itemName' => 'Cormorant Guristas Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33883,
+				'itemName' => 'Thrasher Thukker Tribe Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 33884,
+				'itemName' => 'Thrasher Thukker Tribe Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33890,
+				'itemName' => 'Small Transverse Bulkhead I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33891,
+				'itemName' => 'Small Transverse Bulkhead I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33892,
+				'itemName' => 'Small Transverse Bulkhead II',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33893,
+				'itemName' => 'Small Transverse Bulkhead II Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33894,
+				'itemName' => 'Medium Transverse Bulkhead I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33895,
+				'itemName' => 'Medium Transverse Bulkhead I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33896,
+				'itemName' => 'Medium Transverse Bulkhead II',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33897,
+				'itemName' => 'Medium Transverse Bulkhead II Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33898,
+				'itemName' => 'Large Transverse Bulkhead I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33899,
+				'itemName' => 'Large Transverse Bulkhead I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33900,
+				'itemName' => 'Large Transverse Bulkhead II',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33901,
+				'itemName' => 'Large Transverse Bulkhead II Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33902,
+				'itemName' => 'Capital Transverse Bulkhead I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33903,
+				'itemName' => 'Capital Transverse Bulkhead I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33904,
+				'itemName' => 'Capital Transverse Bulkhead II',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33905,
+				'itemName' => 'Capital Transverse Bulkhead II Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33915,
+				'itemName' => 'Medium Micro Jump Drive',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33916,
+				'itemName' => 'Medium Micro Jump Drive Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33917,
+				'itemName' => 'Low-grade Centurion Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33918,
+				'itemName' => 'Low-grade Centurion Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33919,
+				'itemName' => 'Low-grade Centurion Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33920,
+				'itemName' => 'Low-grade Centurion Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33921,
+				'itemName' => 'Low-grade Centurion Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33922,
+				'itemName' => 'Low-grade Centurion Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33923,
+				'itemName' => 'Low-grade Crystal Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33924,
+				'itemName' => 'Low-grade Crystal Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33925,
+				'itemName' => 'Low-grade Crystal Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33926,
+				'itemName' => 'Low-grade Crystal Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33927,
+				'itemName' => 'Low-grade Crystal Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33928,
+				'itemName' => 'Low-grade Crystal Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33929,
+				'itemName' => 'Low-grade Edge Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33930,
+				'itemName' => 'Low-grade Edge Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33931,
+				'itemName' => 'Low-grade Edge Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33932,
+				'itemName' => 'Low-grade Edge Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33933,
+				'itemName' => 'Low-grade Edge Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33934,
+				'itemName' => 'Low-grade Edge Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33935,
+				'itemName' => 'Low-grade Halo Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33936,
+				'itemName' => 'Low-grade Halo Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33937,
+				'itemName' => 'Low-grade Halo Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33938,
+				'itemName' => 'Low-grade Halo Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33939,
+				'itemName' => 'Low-grade Halo Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33940,
+				'itemName' => 'Low-grade Halo Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33941,
+				'itemName' => 'Low-grade Harvest Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33942,
+				'itemName' => 'Low-grade Harvest Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33943,
+				'itemName' => 'Low-grade Harvest Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33944,
+				'itemName' => 'Low-grade Harvest Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33945,
+				'itemName' => 'Low-grade Harvest Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33946,
+				'itemName' => 'Low-grade Harvest Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33947,
+				'itemName' => 'Low-grade Nomad Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33948,
+				'itemName' => 'Low-grade Nomad Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33949,
+				'itemName' => 'Low-grade Nomad Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33950,
+				'itemName' => 'Low-grade Nomad Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33951,
+				'itemName' => 'Low-grade Nomad Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33952,
+				'itemName' => 'Low-grade Nomad Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33953,
+				'itemName' => 'Low-grade Slave Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33954,
+				'itemName' => 'Low-grade Slave Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33955,
+				'itemName' => 'Low-grade Slave Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33956,
+				'itemName' => 'Low-grade Slave Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33957,
+				'itemName' => 'Low-grade Slave Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33958,
+				'itemName' => 'Low-grade Slave Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33959,
+				'itemName' => 'Low-grade Snake Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33960,
+				'itemName' => 'Low-grade Snake Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33961,
+				'itemName' => 'Low-grade Snake Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33962,
+				'itemName' => 'Low-grade Snake Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33963,
+				'itemName' => 'Low-grade Snake Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33964,
+				'itemName' => 'Low-grade Snake Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33965,
+				'itemName' => 'Low-grade Talisman Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33966,
+				'itemName' => 'Low-grade Talisman Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33967,
+				'itemName' => 'Low-grade Talisman Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33968,
+				'itemName' => 'Low-grade Talisman Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33969,
+				'itemName' => 'Low-grade Talisman Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33970,
+				'itemName' => 'Low-grade Talisman Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33971,
+				'itemName' => 'Low-grade Virtue Alpha',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33972,
+				'itemName' => 'Low-grade Virtue Beta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33973,
+				'itemName' => 'Low-grade Virtue Delta',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33974,
+				'itemName' => 'Low-grade Virtue Epsilon',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33975,
+				'itemName' => 'Low-grade Virtue Gamma',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33976,
+				'itemName' => 'Low-grade Virtue Omega',
+				'categoryID' => 20,
+			),
+			array(
+				'itemID' => 33981,
+				'itemName' => 'Limited Hyperspatial Accelerator',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33982,
+				'itemName' => 'Limited Hyperspatial Accelerator Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33983,
+				'itemName' => 'Experimental Hyperspatial Accelerator',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33984,
+				'itemName' => 'Experimental Hyperspatial Accelerator Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33985,
+				'itemName' => 'Prototype Hyperspatial Accelerator',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 33986,
+				'itemName' => 'Prototype Hyperspatial Accelerator Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 33988,
+				'itemName' => 'Guristas Data Sequence',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 33989,
+				'itemName' => 'Women\'s \'Hover\' Tights (black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 33990,
+				'itemName' => 'Tournament Micro Jump Unit',
+				'categoryID' => 22,
+			),
+			array(
+				'itemID' => 34017,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (matte black left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34018,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (black and orange ringed left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34019,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (black ringed left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34020,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (black and yellow left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34021,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (blue and black ringed left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34022,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (blue and white left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34023,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (white and gray ringed left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34024,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (black and orange left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34025,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (black and red left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34026,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (black and yellow left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34027,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (blue and white left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34028,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (green camo left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34029,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (green and yellow left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34030,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (gunmetal left)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34031,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (matte black right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34032,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (black and orange ringed right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34033,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (black ringed right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34034,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (black and yellow right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34035,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (blue and black ringed right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34036,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (blue and white right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34037,
+				'itemName' => 'Women\'s \'Vise\' Cybernetic Arm (white and gray ringed right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34038,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (black and orange right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34039,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (black and red right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34040,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (black and yellow right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34041,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (blue and white right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34042,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (green camo  right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34043,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (green and yellow right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34044,
+				'itemName' => 'Men\'s \'Crusher\' Cybernetic Arm (gunmetal right)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34045,
+				'itemName' => 'Women\'s \'Hover\' Tights (light)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34046,
+				'itemName' => 'Women\'s \'Hover\' Tights (orange)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34047,
+				'itemName' => 'Women\'s \'Hover\' Tights (pink)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34048,
+				'itemName' => 'Women\'s \'Hover\' Tights (red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34049,
+				'itemName' => 'Women\'s \'Hover\' Tights (opaque black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34050,
+				'itemName' => 'Women\'s \'Hover\' Tights (opaque blue)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34051,
+				'itemName' => 'Women\'s \'Hover\' Tights (opaque gray)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34052,
+				'itemName' => 'Women\'s \'Hover\' Tights (matte black)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34053,
+				'itemName' => 'Women\'s \'Hover\' Tights (opaque purple)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34054,
+				'itemName' => 'Women\'s \'Hover\' Tights (white)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34055,
+				'itemName' => 'Women\'s \'Hover\' Tights (yellow)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34080,
+				'itemName' => 'Women\'s \'Eternity\' Boots (Black/Gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34083,
+				'itemName' => 'Women\'s \'Eternity\' Boots (Olive)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34086,
+				'itemName' => 'Women\'s \'Eternity\' Boots (Black/Red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34088,
+				'itemName' => 'Women\'s \'Eternity\' Boots (White)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34089,
+				'itemName' => 'Women\'s \'Eternity\' Boots (Yellow)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34091,
+				'itemName' => 'Women\'s \'Eternity\' Suit Top (Black/Gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34094,
+				'itemName' => 'Women\'s \'Eternity\' Suit Top (Olive)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34097,
+				'itemName' => 'Women\'s \'Eternity\' Suit Top (Black/Red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34099,
+				'itemName' => 'Women\'s \'Eternity\' Suit Top (White)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34100,
+				'itemName' => 'Women\'s \'Eternity\' Suit Top (Yellow)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34102,
+				'itemName' => 'Women\'s \'Eternity\' Suit (Black/Gold)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34105,
+				'itemName' => 'Women\'s \'Eternity\' Suit (Olive)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34108,
+				'itemName' => 'Women\'s \'Eternity\' Suit (Black/Red)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34110,
+				'itemName' => 'Women\'s \'Eternity\' Suit (White)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34111,
+				'itemName' => 'Women\'s \'Eternity\' Suit (Yellow)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34118,
+				'itemName' => 'Megathron Quafe Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34119,
+				'itemName' => 'Megathron Quafe Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34121,
+				'itemName' => 'Mobile Competitive Vault Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34122,
+				'itemName' => 'Limited Jump Drive Economizer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34123,
+				'itemName' => 'Limited Jump Drive Economizer Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34124,
+				'itemName' => 'Experimental Jump Drive Economizer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34125,
+				'itemName' => 'Experimental Jump Drive Economizer Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34126,
+				'itemName' => 'Prototype Jump Drive Economizer',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34127,
+				'itemName' => 'Prototype Jump Drive Economizer Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34132,
+				'itemName' => 'Pilot\'s Body Resculpt Certificate',
+				'categoryID' => 5,
+			),
+			array(
+				'itemID' => 34133,
+				'itemName' => 'Multiple Pilot Training Certificate',
+				'categoryID' => 5,
+			),
+			array(
+				'itemID' => 34151,
+				'itemName' => 'Rattlesnake Victory Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34153,
+				'itemName' => 'Rattlesnake Victory Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34156,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Caldari)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34157,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Amarr)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34158,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Minmatar)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34159,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Gallente)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34160,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (ORE)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34161,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Sisters of EVE)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34162,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Mordu\'s Legion)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34163,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (interBus)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34164,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Angel Cartel)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34165,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Sansha\'s Nation)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34166,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Blood Raiders)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34167,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Guristas)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34168,
+				'itemName' => 'Men\'s \'Marshal\' Jacket (Serpentis)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34169,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Caldari)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34170,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Amarr)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34171,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Minmatar)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34172,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Gallente)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34173,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (ORE)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34174,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Sisters of EVE)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34175,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Mordu\'s Legion)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34176,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (interBus)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34177,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Angel Cartel)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34178,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Sansha\'s Nation)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34179,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Blood Raiders)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34180,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Guristas)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34181,
+				'itemName' => 'Women\'s \'Gunner\' Jacket (Serpentis)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34201,
+				'itemName' => 'Accelerant Decryptor',
+				'categoryID' => 35,
+			),
+			array(
+				'itemID' => 34202,
+				'itemName' => 'Attainment Decryptor',
+				'categoryID' => 35,
+			),
+			array(
+				'itemID' => 34203,
+				'itemName' => 'Augmentation Decryptor',
+				'categoryID' => 35,
+			),
+			array(
+				'itemID' => 34204,
+				'itemName' => 'Parity Decryptor',
+				'categoryID' => 35,
+			),
+			array(
+				'itemID' => 34205,
+				'itemName' => 'Process Decryptor',
+				'categoryID' => 35,
+			),
+			array(
+				'itemID' => 34206,
+				'itemName' => 'Symmetry Decryptor',
+				'categoryID' => 35,
+			),
+			array(
+				'itemID' => 34207,
+				'itemName' => 'Optimized Attainment Decryptor',
+				'categoryID' => 35,
+			),
+			array(
+				'itemID' => 34208,
+				'itemName' => 'Optimized Augmentation Decryptor',
+				'categoryID' => 35,
+			),
+			array(
+				'itemID' => 34210,
+				'itemName' => 'Men\'s \'Quafethron\' T-shirt',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34211,
+				'itemName' => 'Women\'s \'Quafethron\' T-shirt',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34213,
+				'itemName' => 'Apocalypse Blood Raider Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34214,
+				'itemName' => 'Apocalypse Blood Raider Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34215,
+				'itemName' => 'Apocalypse Kador Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34216,
+				'itemName' => 'Apocalypse Kador Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34217,
+				'itemName' => 'Apocalypse Tash-Murkon Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34218,
+				'itemName' => 'Apocalypse Tash-Murkon Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34219,
+				'itemName' => 'Paladin Blood Raider Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34220,
+				'itemName' => 'Paladin Blood Raider Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34221,
+				'itemName' => 'Paladin Kador Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34222,
+				'itemName' => 'Paladin Kador Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34223,
+				'itemName' => 'Paladin Tash-Murkon Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34224,
+				'itemName' => 'Paladin Tash-Murkon Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34225,
+				'itemName' => 'Raven Guristas Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34226,
+				'itemName' => 'Raven Guristas Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34227,
+				'itemName' => 'Raven Kaalakiota Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34228,
+				'itemName' => 'Raven Kaalakiota Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34229,
+				'itemName' => 'Raven Nugoeihuvi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34230,
+				'itemName' => 'Raven Nugoeihuvi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34231,
+				'itemName' => 'Golem Guristas Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34232,
+				'itemName' => 'Golem Guristas Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34233,
+				'itemName' => 'Golem Kaalakiota Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34234,
+				'itemName' => 'Golem Kaalakiota Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34235,
+				'itemName' => 'Golem Nugoeihuvi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34236,
+				'itemName' => 'Golem Nugoeihuvi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34237,
+				'itemName' => 'Megathron Police Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34238,
+				'itemName' => 'Megathron Police Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34239,
+				'itemName' => 'Megathron Inner Zone Shipping Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34240,
+				'itemName' => 'Megathron Inner Zone Shipping Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34241,
+				'itemName' => 'Kronos Police Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34242,
+				'itemName' => 'Kronos Police Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34243,
+				'itemName' => 'Kronos Quafe Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34244,
+				'itemName' => 'Kronos Quafe Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34245,
+				'itemName' => 'Kronos Inner Zone Shipping Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34246,
+				'itemName' => 'Kronos Inner Zone Shipping Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34247,
+				'itemName' => 'Tempest Justice Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34248,
+				'itemName' => 'Tempest Justice Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34249,
+				'itemName' => 'Tempest Krusual Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34250,
+				'itemName' => 'Tempest Krusual Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34251,
+				'itemName' => 'Tempest Nefantar Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34252,
+				'itemName' => 'Tempest Nefantar Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34253,
+				'itemName' => 'Vargur Justice Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34254,
+				'itemName' => 'Vargur Justice Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34255,
+				'itemName' => 'Vargur Krusual Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34256,
+				'itemName' => 'Vargur Krusual Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34257,
+				'itemName' => 'Vargur Nefantar Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34258,
+				'itemName' => 'Vargur Nefantar Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34260,
+				'itemName' => 'Surgical Warp Disrupt Probe',
+				'categoryID' => 8,
+			),
+			array(
+				'itemID' => 34261,
+				'itemName' => 'Surgical Warp Disrupt Probe Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34264,
+				'itemName' => 'Focused Void Bomb',
+				'categoryID' => 8,
+			),
+			array(
+				'itemID' => 34265,
+				'itemName' => 'Focused Void Bomb Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34266,
+				'itemName' => 'Small Higgs Anchor I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34267,
+				'itemName' => 'Small Higgs Anchor I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34268,
+				'itemName' => 'Medium Higgs Anchor I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34269,
+				'itemName' => 'Medium Higgs Anchor I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34272,
+				'itemName' => 'Polarized Small Pulse Laser',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34273,
+				'itemName' => 'Polarized Small Pulse Laser Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34274,
+				'itemName' => 'Polarized Heavy Pulse Laser',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34275,
+				'itemName' => 'Polarized Heavy Pulse Laser Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34276,
+				'itemName' => 'Polarized Mega Pulse Laser',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34277,
+				'itemName' => 'Polarized Mega Pulse Laser Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34278,
+				'itemName' => 'Polarized Light Neutron Blaster',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34279,
+				'itemName' => 'Polarized Light Neutron Blaster Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34280,
+				'itemName' => 'Polarized Heavy Neutron Blaster',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34281,
+				'itemName' => 'Polarized Heavy Neutron Blaster Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34282,
+				'itemName' => 'Polarized Neutron Blaster Cannon',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34283,
+				'itemName' => 'Polarized Neutron Blaster Cannon Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34284,
+				'itemName' => 'Polarized 200mm AutoCannon',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34285,
+				'itemName' => 'Polarized 200mm AutoCannon Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34286,
+				'itemName' => 'Polarized 425mm AutoCannon',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34287,
+				'itemName' => 'Polarized 425mm AutoCannon Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34288,
+				'itemName' => 'Polarized 800mm Repeating Cannon',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34289,
+				'itemName' => 'Polarized 800mm Repeating Cannon Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34290,
+				'itemName' => 'Polarized Rocket Launcher',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34291,
+				'itemName' => 'Polarized Rocket Launcher Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34292,
+				'itemName' => 'Polarized Heavy Assault Missile Launcher',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34293,
+				'itemName' => 'Polarized Heavy Assault Missile Launcher Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34294,
+				'itemName' => 'Polarized Torpedo Launcher',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34295,
+				'itemName' => 'Polarized Torpedo Launcher Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34306,
+				'itemName' => 'Large Higgs Anchor I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34307,
+				'itemName' => 'Large Higgs Anchor I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34308,
+				'itemName' => 'Capital Higgs Anchor I',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34309,
+				'itemName' => 'Capital Higgs Anchor I Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34311,
+				'itemName' => 'Honorary Fabricator-General Baton',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34312,
+				'itemName' => 'Honorary Brigadier of Engineers Insignia',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34313,
+				'itemName' => 'Honorary Federal Harbormaster Pennon',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34314,
+				'itemName' => 'Honorary Fleet Architect Badge',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34317,
+				'itemName' => 'Confessor',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34318,
+				'itemName' => 'Confessor Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34327,
+				'itemName' => 'ORE Freighter',
+				'categoryID' => 16,
+			),
+			array(
+				'itemID' => 34328,
+				'itemName' => 'Bowhead',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34329,
+				'itemName' => 'Bowhead Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34339,
+				'itemName' => 'Moros Interbus Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34340,
+				'itemName' => 'Moros Interbus Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34341,
+				'itemName' => 'Naglfar Justice Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34342,
+				'itemName' => 'Naglfar Justice Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34343,
+				'itemName' => 'Phoenix Wiyrkomi Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34344,
+				'itemName' => 'Phoenix Wiyrkomi Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34345,
+				'itemName' => 'Revelation Sarum Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34346,
+				'itemName' => 'Revelation Sarum Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34347,
+				'itemName' => 'Men\'s \'Outlaw\' Jacket (Blood Raiders)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34348,
+				'itemName' => 'Men\'s \'Outlaw\' Jacket (Sansha\'s Nation)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34349,
+				'itemName' => 'Men\'s \'Outlaw\' Jacket (Guristas)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34350,
+				'itemName' => 'Women\'s \'Outlaw\' Coat (Sansha\'s Nation)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34351,
+				'itemName' => 'Women\'s \'Outlaw\' Coat (Guristas)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34353,
+				'itemName' => 'Women\'s \'Outlaw\' Coat (Blood Raiders)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34354,
+				'itemName' => 'Men\'s \'Outlaw\' Pants (Blood Raiders)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34355,
+				'itemName' => 'Men\'s \'Outlaw\' Pants (Sansha\'s Nation)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34356,
+				'itemName' => 'Men\'s \'Outlaw\' Pants (Guristas)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34357,
+				'itemName' => 'Women\'s \'Outlaw\' Pants (Blood Raiders)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34358,
+				'itemName' => 'Women\'s \'Outlaw\' Pants (Sansha\'s Nation)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34359,
+				'itemName' => 'Women\'s \'Outlaw\' Pants (Guristas)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34360,
+				'itemName' => 'Men\'s \'Outlaw\' Boots (Blood Raiders)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34361,
+				'itemName' => 'Men\'s \'Outlaw\' Boots (Sansha\'s Nation)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34362,
+				'itemName' => 'Men\'s \'Outlaw\' Boots (Guristas)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34363,
+				'itemName' => 'Women\'s \'Outlaw\' Boots (Blood Raiders)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34364,
+				'itemName' => 'Women\'s \'Outlaw\' Boots (Sansha\'s Nation)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34365,
+				'itemName' => 'Women\'s \'Outlaw\' Boots (Guristas)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34381,
+				'itemName' => 'X-Axis Calibration Coordinate',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34382,
+				'itemName' => 'Y-Axis Calibration Coordinate',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34383,
+				'itemName' => 'Z-Axis Calibration Coordinate',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34390,
+				'itemName' => 'Amarr Tactical Destroyer',
+				'categoryID' => 16,
+			),
+			array(
+				'itemID' => 34393,
+				'itemName' => 'Men\'s \'Outlaw\' Jacket (Burnt Orange)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34394,
+				'itemName' => 'Women\'s \'Outlaw\' Coat (Burnt Orange)',
+				'categoryID' => 30,
+			),
+			array(
+				'itemID' => 34396,
+				'itemName' => 'Self-Assembling Nanolattice',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34397,
+				'itemName' => 'Self-Assembling Nanolattice Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34400,
+				'itemName' => 'Gamma Ray Modulate Disc',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34401,
+				'itemName' => 'Infrared Ray Modulate Disc',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34402,
+				'itemName' => 'Radio Ray Modulate Disc',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34412,
+				'itemName' => 'Small Intact Hull Section',
+				'categoryID' => 34,
+			),
+			array(
+				'itemID' => 34414,
+				'itemName' => 'Small Malfunctioning Hull Section',
+				'categoryID' => 34,
+			),
+			array(
+				'itemID' => 34416,
+				'itemName' => 'Small Wrecked Hull Section',
+				'categoryID' => 34,
+			),
+			array(
+				'itemID' => 34417,
+				'itemName' => 'Manufacturing Unionâ€™s Placard',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34418,
+				'itemName' => 'The Galactic Party Planning Guide',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34419,
+				'itemName' => 'Jump Fatigue Recovery Agent',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34420,
+				'itemName' => 'Cooking With Veldspar',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34421,
+				'itemName' => 'Chribbaâ€™s Modified Strip Miner',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34422,
+				'itemName' => 'Rooks & Kings â€“ The Clarion Call Compilation',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34423,
+				'itemName' => 'Pre-Completed CSM 10 Ballot Paper',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34424,
+				'itemName' => 'Titanium Plated Cranial Shielding',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34425,
+				'itemName' => 'SCC Guidelines â€“ Lotteries For Dummies',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34426,
+				'itemName' => 'Sort Dragonâ€™s Guide To Diplomacy',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34427,
+				'itemName' => 'Polaris Eviction Notice',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34428,
+				'itemName' => 'Jump Portal Generation Instruction Holoreel',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34429,
+				'itemName' => 'Vincent Pryceâ€™s Warp Disruption Field Generator',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34430,
+				'itemName' => 'My God, Itâ€™s Full Of Holes!',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34431,
+				'itemName' => 'Guillome Renardâ€™s Sleeper Loot Stash',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34432,
+				'itemName' => 'Sisters Of EVE Charity Statue',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34433,
+				'itemName' => 'The Damselâ€™s Drunk Bodyguard',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34434,
+				'itemName' => 'Alice Sakiâ€™s Good Posting Guide',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34435,
+				'itemName' => 'Soxfourâ€™s Spaceboots',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34436,
+				'itemName' => 'The Friend Ship',
+				'categoryID' => 63,
+			),
+			array(
+				'itemID' => 34441,
+				'itemName' => 'Dominix Quafe Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34442,
+				'itemName' => 'Dominix Quafe Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34443,
+				'itemName' => 'Tristan Quafe Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34444,
+				'itemName' => 'Tristan Quafe Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34445,
+				'itemName' => 'Vexor Quafe Edition',
+				'categoryID' => 6,
+			),
+			array(
+				'itemID' => 34446,
+				'itemName' => 'Vexor Quafe Edition Blueprint',
+				'categoryID' => 9,
+			),
+			array(
+				'itemID' => 34450,
+				'itemName' => 'Intravenous Oscillation Fluid',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34451,
+				'itemName' => 'Nanoplastic Membrane Patch',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34452,
+				'itemName' => 'Self-regulating Machine Gears',
+				'categoryID' => 17,
+			),
+			array(
+				'itemID' => 34481,
+				'itemName' => 'Domination Inertial Stabilizers',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34483,
+				'itemName' => 'Shadow Serpentis Inertial Stabilizers',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34485,
+				'itemName' => 'ORE Reinforced Bulkheads',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34487,
+				'itemName' => 'Syndicate Reinforced Bulkheads',
+				'categoryID' => 7,
+			),
+			array(
+				'itemID' => 34489,
+				'itemName' => 'ORE Expanded Cargohold',
+				'categoryID' => 7,
 			),
 		);
 	}
