@@ -9,6 +9,14 @@
 */
 
 /**
+* @ignore
+*/
+if (!defined('IN_PHPBB'))
+{
+	exit;
+}
+
+/**
 * DO NOT CHANGE
 */
 if (empty($lang) || !is_array($lang))
@@ -41,5 +49,3 @@ $lang = array_merge($lang, array(
 	'EVEBBCODE_EVESYSTEM_HELPLINE'	=>	'The [evesystem] bbcode allows systems to be viewed using the in-game browser.',
 	'EVEBBCODE_EVEFIT_HELPLINE'		=>	'The [evefit] bbcode allows fittings to be viewed using any browser, and has the ability to import them using the in-game browser.',
 ));
-
-?>
